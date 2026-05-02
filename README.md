@@ -4,21 +4,21 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Suraj Rawat</h1>
-<h3 align="center">🚀 Full Stack Developer | Building Modern Web Experiences</h3>
+<h3 align="center">🚀 Full Stack Developer | Building Scalable & Modern Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+UI+%2B+Powerful+Backend;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Clean+UI+%2B+Secure+Backend;Always+Learning+New+Tech" />
 </p>
 
 ---
 
 ## 💡 About Me  
 
-- 💻 I build **modern, responsive, and scalable web applications**  
-- ⚙️ Skilled in **Frontend + Backend Development**  
-- 🌱 Currently exploring **Advanced Backend & APIs**  
-- 🎯 Focused on becoming a **Top Full Stack Engineer**  
-- ⚡ Love creating **beautiful UI + smooth UX**
+- 💻 I build **modern, scalable & high-performance web applications**  
+- ⚙️ Strong in **Frontend + Backend Architecture**  
+- 🌱 Exploring **System Design, Scaling & DevOps**  
+- 🎯 Goal: Become a **Top Full Stack Engineer**  
+- ⚡ Focus: **Performance, Clean Code & UX**
 
 ---
 
@@ -32,41 +32,91 @@
 
 ---
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 
-### 🎨 Frontend
+## 🚀 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
 </p>
 
-### ⚙️ Backend
+## 🎨 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
 </p>
 
-### 🗄️ Database
+## ⚙️ Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🧰 Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Auth-Secure-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Middleware-Enabled-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API_Security-Strong-red?style=for-the-badge" />
+</p>
+
+## 🗄️ Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Query_Optimization-Advanced-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Indexing-Optimized-green?style=for-the-badge" />
+</p>
+
+## 🧰 Tools & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,postman" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-blue?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Current Focus  
+## 📊 GitHub Stats  
 
-- 🚀 Building **Full Stack Projects**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawatr07&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawatr07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Current Focus  
+
+- 🚀 Building **Production-Level Full Stack Projects**
 - 📚 Learning **System Design & Backend Scaling**
-- 🔥 Improving **DSA (LeetCode)**
+- 💡 Mastering **DSA (LeetCode)**
+
+---
+
+## 🏆 Achievements & Activity  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=surajrawatr07&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajrawatr07&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## ✨ Developer Mindset  
 
-> “First, solve the problem. Then, write clean and maintainable code.”  
+> “First, solve the problem. Then, write clean and maintainable code.”
 
 ---
 
