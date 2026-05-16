@@ -246,26 +246,3 @@ Logical Thinking
 
 # 💜 Thanks For Visiting My Profile
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+💜;Keep+Learning+Keep+Building+🚀;Follow+%26+Star+Repositories+⭐" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:c084fc&height=3"/>
-
-<br/><br/>
-
-<img src="https://media.tenor.com/L95WmEymrJAAAAAC/github-git.gif" width="320"/>
-
-### ⭐ Don't Forget To Follow & Star Repositories ⭐
-
-</div>
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:c084fc,50:7c3aed,100:0f172a&section=footer"/>
-</p>
