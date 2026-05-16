@@ -247,15 +247,3 @@ Logical Thinking
 <div align="center">
 
 # 💜 Thanks For Visiting My Profile
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Keep+Learning+Keep+Building+🚀;Follow+%26+Star+Repositories+⭐;Thanks+For+Visiting+My+Profile+💜" />
-
-</div>
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:c084fc,50:7c3aed,100:0f172a&section=footer"/>
-</p>
