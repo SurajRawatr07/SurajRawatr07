@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0f172a,25:312e81,50:6d28d9,75:9333ea,100:c084fc&text=Suraj%20Rawat&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Web%20Developer%20💻%20|%20BCA%20Student%20🎓%20|%20Full%20Stack%20Developer%20🚀&descAlignY=63&descSize=23" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0f172a,25:312e81,50:6d28d9,75:9333ea,100:c084fc&text=Suraj%20Rawat&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Creative%20Frontend%20Developer%20✨%20|%20UI%2FUX%20Designer%20🎨%20|%20Tech%20Enthusiast%20🚀&descAlignY=63&descSize=23" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Web+Developer+💻;BCA+Student+🎓;Full+Stack+Developer+🚀;React+%7C+Next.js+%7C+Node.js;Learning+Backend+%26+System+Design;Continuously+Solving+DSA+Problems;Building+Modern+UI%2FUX+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Creative+Frontend+Developer+✨;UI%2FUX+Designer+🎨;Tech+Enthusiast+🚀;React+%7C+Next.js+%7C+Node.js;Learning+Backend+%26+System+Design;Continuously+Solving+DSA+Problems;Building+Modern+UI%2FUX+Experiences" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Web_Developer-Active-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BCA_Student-Learning-2563eb?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full_Stack-Developer-9333ea?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend-Creative-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%2FUX-Modern-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System_Design-Learning-9333ea?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DSA-LeetCode-f59e0b?style=for-the-badge" />
 
 </div>
@@ -244,5 +244,18 @@ Logical Thinking
 
 ---
 
+<div align="center">
+
 # 💜 Thanks For Visiting My Profile
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Keep+Learning+Keep+Building+🚀;Follow+%26+Star+Repositories+⭐;Thanks+For+Visiting+My+Profile+💜" />
+
+</div>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:c084fc,50:7c3aed,100:0f172a&section=footer"/>
+</p>
