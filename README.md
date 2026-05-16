@@ -223,16 +223,6 @@ Logical Thinking
 
 ---
 
-# ✨ Developer Mindset
-
-<div align="center">
-
-### “First, solve the problem. Then, write clean and maintainable code.”
-
-</div>
-
----
-
 # ⚡ Fun Fact
 
 <div align="center">
