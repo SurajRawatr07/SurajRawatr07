@@ -1,17 +1,24 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4f46e5,50:7c3aed,100:9333ea&text=Suraj%20Rawat&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20🚀&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4f46e5,50:7c3aed,100:9333ea&text=Suraj%20Rawat&fontSize=60&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20🚀%20|%20BCA%20Student%20🎓&descAlignY=63&descSize=22" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Suraj Rawat</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • UI/UX Enthusiast • Problem Solver
+🚀 Full Stack Developer • BCA Student 🎓 • UI/UX Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Frontend+%2B+Backend+Architecture;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;BCA+Student+%F0%9F%8E%93;React+%7C+Next.js+%7C+Node.js;Learning+Backend+%26+System+Design;Continuously+Solving+DSA+Problems+%F0%9F%A7%A0;Building+Modern+Web+Applications+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-System%20Design-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-purple?style=for-the-badge" />
 </p>
 
 ---
@@ -27,24 +34,25 @@
 # 💻 Coding Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-0b47-4fb6-8a2a-6dfc8c339f4e.gif" width="700">
 </p>
 
 ---
 
 # 💡 About Me
 
-<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/212750342-6f7e4e2f-4f2c-4d9f-8f09-6fbbd8d6b5f6.gif"/>
 
 - 💻 Building **Modern & Scalable Web Applications**
 - ⚡ Passionate about **Frontend + Backend Development**
-- 🌱 Exploring **System Design & DevOps**
+- 🌱 Currently Learning **Backend & System Design**
+- 🧠 Continuously Solving **DSA Problems**
 - 🚀 Focused on **Performance & Clean Architecture**
 - 🎯 Goal: Become a **Top Software Engineer**
-- 🧠 Solving Problems with **DSA & LeetCode**
-- ✨ Love creating **Interactive UI Experiences**
+- ✨ Love Creating **Interactive UI Experiences**
+- 🔥 Exploring **New Technologies Everyday**
 
-<br><br>
+<br><br><br>
 
 ---
 
@@ -77,7 +85,13 @@
 # 🚀 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,java,python&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,java,python,php&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-Learning-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/C++-DSA-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
 ---
@@ -85,13 +99,14 @@
 # 🎨 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,bootstrap,vite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,bootstrap,vite,sass&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UI/UX-Modern-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Animations-Smooth-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Creative-success?style=for-the-badge" />
 </p>
 
 ---
@@ -99,13 +114,14 @@
 # ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/REST_API-Advanced-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Authentication-Secure-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API_Development-Scalable-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Learning-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -113,7 +129,7 @@
 # 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase&theme=dark" />
 </p>
 
 <p align="center">
@@ -126,12 +142,13 @@
 # ☁️ Tools & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,netlify,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,netlify,postman,linux&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployment-Fast-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Learning-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -139,13 +156,13 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawatr07&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawatr07&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawatr07&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawatr07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 ---
@@ -153,18 +170,22 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajrawatr07&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=surajrawatr07&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
 </p>
 
 ---
 
 # 🔥 Current Focus
 
-- 🚀 Building Production-Level Projects
-- 📚 Learning System Design
-- ⚡ Backend Scaling & Optimization
-- 🧠 Mastering DSA & LeetCode
-- 🎨 Creating Modern UI Experiences
+<p align="center">
+
+| 🚀 Learning | 💡 Exploring | 🧠 Practicing |
+|-------------|--------------|----------------|
+| Backend Development | System Design | DSA Problems |
+| API Development | Scalable Architecture | LeetCode |
+| Full Stack Projects | Cloud & DevOps | Problem Solving |
+
+</p>
 
 ---
 
@@ -178,18 +199,12 @@
 
 ---
 
-# 📈 Contribution Graph
+# ⚡ Fun Fact
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajrawatr07&theme=tokyo-night&hide_border=true"/>
-</p>
+  
+💻 I love turning ideas into real-world web applications with modern UI & smooth user experiences 🚀
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -200,6 +215,8 @@
 
 ### ⭐ Don't Forget To Follow & Star Repositories ⭐
 
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
 </div>
 
 ---
@@ -207,5 +224,5 @@
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:9333ea,50:7c3aed,100:4f46e5&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:9333ea,50:7c3aed,100:4f46e5&section=footer"/>
 </p>
