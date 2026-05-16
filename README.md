@@ -6,6 +6,7 @@
 
 <br/>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Creative+Frontend+Developer+✨;UI%2FUX+Designer+🎨;Tech+Enthusiast+🚀;React+%7C+Next.js+%7C+Node.js;Learning+Backend+%26+System+Design;Continuously+Solving+DSA+Problems;Building+Modern+UI%2FUX+Experiences" />
 
 <br/><br/>
