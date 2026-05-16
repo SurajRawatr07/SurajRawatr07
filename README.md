@@ -1,19 +1,19 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0f172a,25:312e81,50:6d28d9,75:9333ea,100:c084fc&text=Suraj%20Rawat&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20🚀%20|%20BCA%20Student%20🎓&descAlignY=63&descSize=23" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0f172a,25:312e81,50:6d28d9,75:9333ea,100:c084fc&text=Suraj%20Rawat&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Web%20Developer%20💻%20|%20BCA%20Student%20🎓%20|%20Full%20Stack%20Developer%20🚀&descAlignY=63&descSize=23" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;React+%7C+Next.js+%7C+Node.js;Learning+Backend+%26+System+Design;Continuously+Solving+DSA+Problems;Building+Modern+UI%2FUX+Experiences;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Web+Developer+💻;BCA+Student+🎓;Full+Stack+Developer+🚀;React+%7C+Next.js+%7C+Node.js;Learning+Backend+%26+System+Design;Continuously+Solving+DSA+Problems;Building+Modern+UI%2FUX+Experiences" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-System%20Design-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web_Developer-Active-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BCA_Student-Learning-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full_Stack-Developer-9333ea?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DSA-LeetCode-f59e0b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20Source-Active-16a34a?style=for-the-badge" />
 
 </div>
 
@@ -21,19 +21,23 @@
 
 # 👋 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<div align="center">
 
-- 🚀 Full Stack Web Developer  
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="650"/>
+
+</div>
+
+<br/>
+
+- 💻 Web Developer & Full Stack Developer  
 - 🎓 BCA Student  
-- 💻 Building Modern & Responsive Web Applications  
 - ⚡ Passionate About Frontend + Backend Development  
 - 🌱 Currently Learning Backend & System Design  
 - 🧠 Continuously Solving DSA Problems  
+- 🚀 Building Modern & Responsive Web Applications  
 - 🔥 Exploring New Technologies Everyday  
-- 🎯 Goal: Become A Top Software Engineer  
 - ✨ Love Creating Smooth UI/UX Experiences  
-
-<br/><br/><br/>
+- 🎯 Goal: Become A Top Software Engineer  
 
 ---
 
@@ -150,7 +154,8 @@
 
 <table>
 <tr>
-<td align="center" width="220">
+
+<td align="center" width="250">
 
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="70"/>
 
@@ -162,7 +167,7 @@ Interactive Animations
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="250">
 
 <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="70"/>
 
@@ -174,7 +179,7 @@ Server Logic
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="250">
 
 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70"/>
 
@@ -185,20 +190,9 @@ LeetCode
 Logical Thinking  
 
 </td>
+
 </tr>
 </table>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawatr07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -242,7 +236,7 @@ Logical Thinking
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420"/>
 
 ### 💻 I Love Turning Creative Ideas Into Real Web Applications 🚀
 
@@ -250,15 +244,19 @@ Logical Thinking
 
 ---
 
-# 💖 Thanks For Visiting
+# 💜 Thanks For Visiting My Profile
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile+💜;Keep+Learning+Keep+Building+🚀;Follow+%26+Star+Repositories+⭐" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+💜;Keep+Learning+Keep+Building+🚀;Follow+%26+Star+Repositories+⭐" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:c084fc&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:c084fc&height=3"/>
+
+<br/><br/>
+
+<img src="https://media.tenor.com/L95WmEymrJAAAAAC/github-git.gif" width="320"/>
 
 ### ⭐ Don't Forget To Follow & Star Repositories ⭐
 
