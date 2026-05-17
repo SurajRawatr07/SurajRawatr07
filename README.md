@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/surajrawatr07/surajrawatr07/main/image.png" width="100%" alt="Follow Me Banner"/>
+<img src="https://kommodo.ai/i/CW6eLpHbvKzE5IuAuHSL" width="100%" alt="Follow Me Banner"/>
 
 </div>
 
