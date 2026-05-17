@@ -43,19 +43,19 @@
 
 <div align="center">
 
-<a href="https://instagram.com/">
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://linkedin.com/">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/surajrawatr07" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50"/>
 </a>
 
