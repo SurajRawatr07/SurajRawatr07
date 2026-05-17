@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+🚀;BCA+Student+🎓;Tech+Enthusiast+💡;React+%7C+Node.js+%7C+MongoDB;DSA+Problem+Solver+🧠;Building+Modern+Web+Apps+⚡" />
+
 
 <br/>
 
