@@ -81,37 +81,11 @@ const developer = {
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=tokyonight" height="170"/>
-
-</div>
 
 ---
 
-# 🧠 Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajRawatr07&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-# 🚀 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
