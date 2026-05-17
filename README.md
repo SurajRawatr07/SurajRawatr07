@@ -6,10 +6,6 @@
 
 <br/>
 
-
-
-<br/>
-
 <!-- BADGES -->
 <img src="https://img.shields.io/badge/FullStack-Developer-7c3aed?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/BCA-Student-2563eb?style=for-the-badge&logo=bookstack" />
@@ -36,25 +32,11 @@
 
 ---
 
-# 🌐 Connect With Me
+# 🔥 Follow Me
 
 <div align="center">
 
-<a href="https://www.instagram.com/surajrawat07" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://www.linkedin.com/in/suraj-rawat-30513b340" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/surajrawatr07" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://leetcode.com/u/SurajRawat07/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50"/>
-</a>
+<img src="https://i.imgur.com/1ZvVkDc.jpeg" width="100%" alt="Follow Me Banner"/>
 
 </div>
 
@@ -107,6 +89,21 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawatr07&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawatr07&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+</div>
+
+---
 
 # 🏆 Achievements
 
@@ -134,29 +131,10 @@
 
 ---
 
-# 🔥 Follow Me
-
-<div align="center">
-
-<img src="https://kommodo.ai/i/6jnmxGR74Q1zwNObt4cQ" width="100%" />
-
-</div>
-
----
-
-# ⚡ Fun Section
-
-<div align="center">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400"/>
-
-### 💻 Turning Ideas Into Real-World Applications 🚀
-
-</div>
-
----
-
 # 🙌 Thanks For Visiting
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+💜;Keep+Learning+Keep+Building+🚀;See+You+Again+✨" />
 
 </div>
