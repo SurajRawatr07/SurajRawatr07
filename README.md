@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+[<!-- ================= HEADER ================= -->
 
 <div align="center">
 
@@ -112,3 +112,4 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+💜;Keep+Learning+Keep+Building+🚀;See+You+Again+✨" />
 
 </div>
+](https://kommodo.ai/i/CW6eLpHbvKzE5IuAuHSL)
