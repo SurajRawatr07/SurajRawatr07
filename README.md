@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/1ZvVkDc.jpeg" width="100%" alt="Follow Me Banner"/>
+<img src="https://raw.githubusercontent.com/surajrawatr07/surajrawatr07/main/image.png" width="100%" alt="Follow Me Banner"/>
 
 </div>
 
@@ -84,32 +84,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,netlify,postman,linux" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawatr07&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawatr07&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=surajrawatr07&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
 
 </div>
 
