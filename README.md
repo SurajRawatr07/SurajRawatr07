@@ -164,20 +164,7 @@
 
 ---
 
-# 📈 Contribution Graph
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajrawatr07&theme=tokyo-night&hide_border=true" width="95%"/>
+#  Thanks for Visiting
 
-</div>
-
----
-
-# 💜 Thanks for Visiting
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0f172a&height=120&section=footer"/>
-
-</div>
