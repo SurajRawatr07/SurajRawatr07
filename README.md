@@ -107,21 +107,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawatr07&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawatr07&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</div>
-
----
 
 # 🏆 Achievements
 
@@ -153,7 +138,7 @@
 
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+<img src="https://kommodo.ai/i/6jnmxGR74Q1zwNObt4cQ" width="100%" />
 
 </div>
 
@@ -173,8 +158,5 @@
 
 # 🙌 Thanks For Visiting
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+💜;Keep+Learning+Keep+Building+🚀;See+You+Again+✨" />
 
 </div>
