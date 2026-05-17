@@ -5,7 +5,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,java,c" />
 </div>
 
----
 
 ## 🎨 Frontend
 <div align="center">
