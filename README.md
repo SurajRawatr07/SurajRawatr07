@@ -99,12 +99,11 @@ const developer = {
   <img src="https://img.shields.io/badge/Instagram-EC4899?style=for-the-badge&logo=instagram" />
 </a>
 
-<a href="https://github.com/SurajRawatr07">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
+<a href="https://leetcode.com/u/SurajRawat07/">
+  <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode" />
 </a>
 
 </div>
-
 ---
 
 # 🙌 Thanks For Visiting
