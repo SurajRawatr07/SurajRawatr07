@@ -22,12 +22,6 @@
 
 # 👋 About Me
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-
-</div>
-
 - 💻 Full Stack Web Developer  
 - 🎓 BCA Student  
 - ⚡ Passionate about building real-world web applications  
@@ -36,6 +30,9 @@
 - 🚀 Focused on MERN Stack (MongoDB, Express, React, Node.js)  
 - 🔥 Always exploring new technologies & improving skills  
 - 💡 Love creating clean & modern UI/UX  
+- 🛠️ Building modern responsive projects with creative designs  
+- 📚 Improving coding skills every single day  
+- 🚀 Goal: Become a professional Software Engineer  
 
 ---
 
@@ -152,6 +149,16 @@
 
 ---
 
+# 🔥 Follow Me
+
+<div align="center">
+
+<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+
+</div>
+
+---
+
 # ⚡ Fun Section
 
 <div align="center">
@@ -164,7 +171,10 @@
 
 ---
 
+# 🙌 Thanks For Visiting
 
+<div align="center">
 
-#  Thanks for Visiting
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+💜;Keep+Learning+Keep+Building+🚀;See+You+Again+✨" />
 
+</div>
