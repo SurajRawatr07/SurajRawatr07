@@ -43,11 +43,11 @@
 
 <div align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<a href="https://www.instagram.com/surajrawat07" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/suraj-rawat-30513b340" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -55,7 +55,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+<a href="https://leetcode.com/u/SurajRawat07/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50"/>
 </a>
 
@@ -66,19 +66,47 @@
 # 💻 Tech Stack
 
 ## 🚀 Languages
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,java,python,php" />
 
+</div>
+
+---
+
 ## 🎨 Frontend
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,vite" />
 
+</div>
+
+---
+
 ## ⚙️ Backend
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
 
+</div>
+
+---
+
 ## 🗄️ Databases
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase" />
 
+</div>
+
+---
+
 ## ☁️ Tools & DevOps
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,netlify,postman,linux" />
+
+</div>
 
 ---
 
@@ -86,8 +114,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawatr07&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawatr07&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawatr07&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
 
@@ -97,7 +130,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=surajrawatr07&theme=radical&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=surajrawatr07&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -105,12 +138,17 @@
 
 # 🚀 Current Focus
 
+<div align="center">
+
 | 💡 Area | 📌 Work |
 |--------|--------|
 | Frontend | React + Next.js |
-| Backend | Node.js + APIs |
+| Backend | Node.js + REST APIs |
 | DSA | LeetCode Daily Practice |
 | System Design | Learning Basics |
+| Deployment | Vercel + Netlify |
+
+</div>
 
 ---
 
@@ -121,6 +159,16 @@
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400"/>
 
 ### 💻 Turning Ideas Into Real-World Applications 🚀
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajrawatr07&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
