@@ -2,19 +2,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0f172a,25:312e81,50:6d28d9,75:9333ea,100:c084fc&text=Suraj%20Rawat&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Creative%20Frontend%20Developer%20✨%20|%20Full%20Stack%20Developer%20🚀&descAlignY=63&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0f172a,25:312e81,50:6d28d9,75:9333ea,100:c084fc&text=Suraj%20Rawat&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20🚀%20|%20BCA%20Student%20🎓%20|%20Tech%20Learner%20💡&descAlignY=63&descSize=22" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Frontend+Developer+✨;Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;React+%7C+Next.js+%7C+Node.js;DSA+Problem+Solver+🧠;Building+Modern+Web+Apps+⚡" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+🚀;BCA+Student+🎓;Tech+Enthusiast+💡;React+%7C+Node.js+%7C+MongoDB;DSA+Problem+Solver+🧠;Building+Modern+Web+Apps+⚡" />
 
 <br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/Frontend-Expert-7c3aed?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Backend-Learning-2563eb?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/DSA-LeetCode-f59e0b?style=for-the-badge&logo=leetcode" />
-<img src="https://img.shields.io/badge/Open%20Source-Active-16a34a?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/FullStack-Developer-7c3aed?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/BCA-Student-2563eb?style=for-the-badge&logo=bookstack" />
+<img src="https://img.shields.io/badge/Learning-Always%20Growing-16a34a?style=for-the-badge&logo=rocket" />
+<img src="https://img.shields.io/badge/DSA-Practice-f59e0b?style=for-the-badge&logo=leetcode" />
 
 </div>
 
@@ -30,11 +30,12 @@
 
 - 💻 Full Stack Web Developer  
 - 🎓 BCA Student  
-- ⚡ Passionate about scalable web apps  
-- 🌱 Learning Backend + System Design  
-- 🧠 Strong focus on DSA & Problem Solving  
-- 🚀 Love building modern UI/UX apps  
-- 🔥 Always exploring new tech  
+- ⚡ Passionate about building real-world web applications  
+- 🌱 Currently learning Backend Development & System Design  
+- 🧠 Practicing DSA regularly for problem solving skills  
+- 🚀 Focused on MERN Stack (MongoDB, Express, React, Node.js)  
+- 🔥 Always exploring new technologies & improving skills  
+- 💡 Love creating clean & modern UI/UX  
 
 ---
 
@@ -76,7 +77,7 @@
 ## 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase" />
 
-## ☁️ Tools
+## ☁️ Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,vercel,netlify,postman,linux" />
 
 ---
@@ -87,16 +88,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=surajrawatr07&show_icons=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawatr07&theme=tokyonight" width="48%" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -118,8 +109,8 @@
 |--------|--------|
 | Frontend | React + Next.js |
 | Backend | Node.js + APIs |
-| DSA | LeetCode Daily |
-| System Design | Basics to Advanced |
+| DSA | LeetCode Daily Practice |
+| System Design | Learning Basics |
 
 ---
 
@@ -129,7 +120,7 @@
 
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400"/>
 
-### 💻 Turning Ideas Into Real Products 🚀
+### 💻 Turning Ideas Into Real-World Applications 🚀
 
 </div>
 
