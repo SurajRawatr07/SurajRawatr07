@@ -23,7 +23,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 ```js
 const developer = {
