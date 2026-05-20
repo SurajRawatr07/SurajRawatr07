@@ -88,4 +88,4 @@ const developer = {
 ---
 
 
-# 🙌 Thanks For Visiting
+#  Thanks For Visiting
