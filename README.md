@@ -10,9 +10,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=2563eb" />
-<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=f59e0b" />
+<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/SurajRawatr07?style=for-the-badge&color=2563eb" />
+
+<img src="https://img.shields.io/github/stars/SurajRawatr07?style=for-the-badge&color=f59e0b" />
 
 </div>
 
@@ -25,7 +27,7 @@
 ```js
 const suraj = {
   name: "Suraj Rawat",
-  username: "yourusername",
+  username: "SurajRawatr07",
 
   role: "Full Stack Developer",
   education: "Bachelor of Computer Applications (BCA)",
@@ -161,31 +163,29 @@ const learning = [
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/SurajRawatr07" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/suraj-rawat-30513b340/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/yourusername">
+<a href="https://www.instagram.com/surajrawat07/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:rawatsuraj80627@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://twitter.com/yourusername">
+<a href="https://x.com/SurajRawat45966" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 </div>
 
 ---
-
-
 
 ## ❤️ Thanks For Visiting My Profile
 
