@@ -103,49 +103,10 @@ const suraj = {
 
 ---
 
-# 🚀 Tech Stack
 
-<div align="center">
-
-## 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python,php" />
-
-<br/><br/>
-
-## 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-
-<br/><br/>
-
-## ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-
-<br/><br/>
-
-## 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-<br/><br/>
-
-## 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
-
-</div>
-
----
 
 # 📚 Currently Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,ts" />
-
-</div>
 
 ```js
 const learning = [
@@ -187,8 +148,5 @@ const learning = [
 
 ---
 
-## ❤️ Thanks For Visiting My Profile
+##  Thanks For Visiting My Profile
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,25:1e293b,50:4c1d95,75:7c3aed,100:c026d3" />
-
-</div>
