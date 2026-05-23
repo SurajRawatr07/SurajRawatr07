@@ -181,7 +181,7 @@
 </a>
 
 <a href="https://x.com/SurajRawat45966" target="_blank">
-<img src="https://cdn.simpleicons.org/x/white" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="52"/>
 </a>
 
 <a href="https://leetcode.com/u/SurajRawat07/" target="_blank">
@@ -223,36 +223,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7" />
-
-</div>
-
----
-
-# 🔥 Coding Activity 🔥
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajRawatr07&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
-
-</div>
-
----
-
-# 💻 Profile Highlights 💻
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Frontend-Expert-38bdf8?style=for-the-badge&logo=react&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Backend-Developer-22c55e?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/UI%2FUX-Creative%20Designer-c026d3?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-f59e0b?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MERN-Stack-10b981?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Always-Learning-8b5cf6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 </div>
 
