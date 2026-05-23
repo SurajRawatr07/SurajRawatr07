@@ -243,26 +243,3 @@ src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=algo
 </div>
 
 ---
-
-<h1 align="center" style="font-family:'Times New Roman';">
-🔥 Random Dev Quote
-</h1>
-
-<div align="center">
-
-<img 
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-/>
-
-</div>
-
----
-
-<div align="center">
-
-<img 
-width="100%" 
-src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:020617,15:0f172a,35:312e81,55:6d28d9,75:c026d3,100:ec4899" 
-/>
-
-</div>
