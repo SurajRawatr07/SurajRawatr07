@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=36&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=1200&height=90&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Engineer;⚡+Creative+Frontend+Designer;🔥+Building+Modern+Animated+Projects;🌍+Open+Source+Contributor;📚+Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=36&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=1200&height=90&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Engineer;⚡+Creative+Frontend+Designer;🔥+Building+Modern+Animated+Projects;🌍+Open+Source+Contributor;📚+Always+Learning+New+Technologies" />
 
 <br/><br/>
 
@@ -32,7 +32,7 @@
 
 ---
 
-<h1 align="center">⚡ Tech Universe ⚡</h1>
+# ⚡ Tech Universe ⚡
 
 <div align="center">
 
@@ -90,7 +90,7 @@
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/><br/><br/>
 <b>MySQL</b>
 </td>
 
@@ -143,7 +143,7 @@
 </td>
 
 <td align="center">
-<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="60"/><br/><br/>
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="60"/><br/><br/>
 <b>Vercel</b>
 </td>
 
@@ -160,7 +160,7 @@
 
 ---
 
-<h1 align="center">🌐 Connect With Me</h1>
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -181,7 +181,7 @@
 </a>
 
 <a href="https://x.com/SurajRawat45966" target="_blank">
-<img src="https://cdn.simpleicons.org/x/ffffff" width="55"/>
+<img src="https://cdn.simpleicons.org/x/white" width="55"/>
 </a>
 
 <a href="https://leetcode.com/u/SurajRawat07/" target="_blank">
@@ -192,23 +192,23 @@
 
 ---
 
-<h1 align="center">⚔️ Developer Power ⚔️</h1>
+# ⚔️ Developer Power ⚔️
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajRawatr07&theme=tokyonight" width="100%" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajRawatr07&theme=tokyonight" />
 
 </div>
 
 ---
 
-<h1 align="center">📊 GitHub Analytics</h1>
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=30&include_all_commits=true&count_private=true" />
 
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=tokyonight&hide_border=true&border_radius=30" />
+<img height="200em" src="https://streak-stats.demolab.com?user=SurajRawatr07&theme=tokyonight&hide_border=true&border_radius=30" />
 
 <br/><br/>
 
@@ -218,7 +218,7 @@
 
 ---
 
-<h1 align="center">🏆 GitHub Trophies</h1>
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -228,7 +228,7 @@
 
 ---
 
-<h1 align="center">🔥 Coding Activity 🔥</h1>
+# 🔥 Coding Activity 🔥
 
 <div align="center">
 
@@ -238,17 +238,7 @@
 
 ---
 
-<h1 align="center">⚡ Fun Zone ⚡</h1>
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-
-</div>
-
----
-
-<h1 align="center">💻 Profile Highlights 💻</h1>
+# 💻 Profile Highlights 💻
 
 <div align="center">
 
@@ -256,9 +246,25 @@
 
 <img src="https://img.shields.io/badge/Backend-Developer-22c55e?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/UI%2FUX-Creative Designer-c026d3?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Creative%20Designer-c026d3?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Open Source-Lover-f59e0b?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-f59e0b?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MERN-Stack-10b981?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Always-Learning-8b5cf6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Achievements ⚡
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SurajRawatr07&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SurajRawatr07&theme=tokyonight" />
 
 </div>
 
