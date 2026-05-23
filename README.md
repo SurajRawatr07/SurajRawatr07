@@ -1,16 +1,16 @@
-<!-- ========================== AURA X PREMIUM GITHUB PROFILE README ========================== -->
+<!-- ========================== REAL ICON PREMIUM GITHUB PROFILE README ========================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=390&text=Suraj%20Rawat&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20🚀%20|%20MERN%20Stack%20Engineer%20💻%20|%20Creative%20UI%20Designer%20⚡&descAlignY=60&descSize=24&color=0:020617,15:0f172a,35:312e81,55:6d28d9,75:c026d3,100:ec4899" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=390&text=Suraj%20Rawat&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20🚀%20|%20MERN%20Stack%20Engineer%20💻%20|%20Creative%20UI%20Designer%20⚡&descAlignY=60&descSize=24&color=0:020617,15:0f172a,35:312e81,55:6d28d9,75:c026d3,100:ec4899" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=35&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=1200&height=90&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Engineer;⚡+Creative+Frontend+Designer;🔥+Building+Modern+Animated+Projects;🌍+Open+Source+Contributor;📚+Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=34&pause=1000&color=C084FC&center=true&vCenter=true&width=1200&height=90&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Engineer;⚡+Creative+Frontend+Designer;🔥+Building+Modern+Animated+Projects;🌍+Open+Source+Contributor;📚+Always+Learning+New+Technologies" />
 
 <br/><br/>
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="100%" />
 
 <br/><br/>
 
@@ -30,7 +30,7 @@
 
 ---
 
-<h1 align="center" style="font-family:'Times New Roman';">
+<h1 align="center">
  🚀 Languages & Tools
 </h1>
 
@@ -41,155 +41,163 @@
 <table>
 
 <tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="58"/><br/>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/><br/>
 <b>HTML5</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="58"/><br/>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/><br/>
 <b>CSS3</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="58"/><br/>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br/>
 <b>JavaScript</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="58"/><br/>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/><br/>
 <b>TypeScript</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="58"/><br/>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br/>
 <b>React.js</b>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/><br/>
 <b>Next.js</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/><br/>
 <b>Node.js</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/><br/>
 <b>PHP</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/><br/>
 <b>MongoDB</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br/>
 <b>MySQL</b>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55"/><br/>
 <b>Firebase</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="58"/><br/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55"/><br/>
 <b>Tailwind CSS</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/><br/>
 <b>C</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/><br/>
 <b>C++</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br/>
 <b>Python</b>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br/>
 <b>Git</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/><br/>
 <b>GitHub</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="58"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/><br/>
 <b>Figma</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="58"/><br/>
+<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="55"/><br/>
 <b>Vercel</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=netlify" width="58"/><br/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="55"/><br/>
 <b>Netlify</b>
 </td>
+
 </tr>
 
 </table>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750216-2b4ff29c-61d9-4af4-8f44-1c3f5d1e7f9b.gif" width="92%" />
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%" />
 
 </div>
 
 ---
 
-<h1 align="center" style="font-family:'Times New Roman';">
+<h1 align="center">
  🌐 Connect With Me
 </h1>
 
 <div align="center">
 
-<a href="https://github.com/SurajRawatr07">
-<img src="https://skillicons.dev/icons?i=github" width="58"/>
+<a href="https://github.com/SurajRawatr07" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/suraj-rawat-30513b340/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="58"/>
+<a href="https://www.linkedin.com/in/suraj-rawat-30513b340/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
 </a>
 
-<a href="https://www.instagram.com/surajrawat07/">
-<img src="https://skillicons.dev/icons?i=instagram" width="58"/>
+<a href="https://www.instagram.com/surajrawat07/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="55"/>
 </a>
 
 <a href="mailto:rawatsuraj80627@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="58"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="55"/>
 </a>
 
-<a href="https://x.com/SurajRawat45966">
-<img src="https://skillicons.dev/icons?i=twitter" width="58"/>
+<a href="https://x.com/SurajRawat45966" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="50"/>
 </a>
 
-<a href="https://leetcode.com/u/SurajRawat07/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
+<a href="https://leetcode.com/u/SurajRawat07/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50"/>
 </a>
 
 </div>
@@ -198,13 +206,13 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/0hj7K2xE0GAAAAAC/anime-aesthetic.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
 
 ---
 
-<h1 align="center" style="font-family:'Times New Roman';">
+<h1 align="center">
  📊 GitHub Analytics
 </h1>
 
@@ -222,7 +230,7 @@
 
 ---
 
-<h1 align="center" style="font-family:'Times New Roman';">
+<h1 align="center">
  🏆 GitHub Trophies
 </h1>
 
@@ -236,14 +244,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:c026d3,50:7e22ce,100:020617" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=footer&color=0:020617,15:0f172a,35:312e81,55:6d28d9,75:c026d3,100:ec4899" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:020617,15:0f172a,35:312e81,55:6d28d9,75:c026d3,100:ec4899" />
 
 </div>
