@@ -1,8 +1,6 @@
 <!-- ========================== MINIMAL ELITE GITHUB PROFILE README ========================== -->
 
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:020617,15:0f172a,35:312e81,55:6d28d9,75:c026d3,100:ec4899&section=header"/>
 
 <h1 style="font-family:'Times New Roman'; font-size:55px;">
 Suraj Rawat
