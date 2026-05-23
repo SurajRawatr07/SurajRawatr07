@@ -1,16 +1,16 @@
-<!-- ========================== LEGENDARY GITHUB PROFILE README ========================== -->
+<!-- ========================== 3D ULTRA PREMIUM GITHUB PROFILE README ========================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:050816,20:111827,40:4C1D95,60:7E22CE,80:C026D3,100:EC4899&text=Suraj%20Rawat&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Creative%20Coder%20⚡&descAlignY=61&descSize=23" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=380&text=Suraj%20Rawat&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Creative%20Coder%20⚡&descAlignY=61&descSize=23&color=0:020617,20:0f172a,40:4c1d95,60:7e22ce,80:c026d3,100:ec4899" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=1100&height=80&lines=Full+Stack+Developer+🚀;Frontend+%2B+Backend+Engineer+⚡;MERN+Stack+Developer+💻;Building+Modern+Animated+Websites+🔥;Open+Source+Contributor+🌍;Always+Learning+New+Technologies+📚" />
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=34&pause=1000&color=C084FC&center=true&vCenter=true&width=1100&height=90&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Engineer;⚡+Creative+Frontend+Designer;🌍+Open+Source+Contributor;🔥+Building+Modern+Animated+Projects;📚+Always+Learning+New+Technologies" />
 
-<br/>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8f2b-1b5f7b6b7d8f.gif" width="100%" />
+<img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="100%" />
 
 <br/><br/>
 
@@ -20,42 +20,50 @@
 
 <img src="https://img.shields.io/github/stars/SurajRawatr07?style=for-the-badge&logo=github&label=TOTAL+STARS&color=f59e0b" />
 
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-22c55e?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-9333ea?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20WEB%20DEVELOPMENT-9333ea?style=for-the-badge" />
 
 </div>
 
 ---
 
-<h1 align="center">
+<h1 align="center" style="font-family:'Times New Roman';">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  About Me
+  <b>About Me</b>
 </h1>
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+
+<img align="right" width="340" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+
+</div>
 
 ```js
 const suraj = {
     name: "Suraj Rawat",
     role: "Full Stack Developer",
     education: "BCA Student",
+
     expertise: [
         "Frontend Development",
         "Backend Development",
         "Database Management",
         "UI/UX Design"
     ],
+
     currentlyLearning: [
         "Next.js",
         "TypeScript",
         "Advanced MERN Stack"
     ],
+
     hobbies: [
         "Creative Coding",
-        "Open Source",
-        "Modern Web Design"
+        "3D UI Design",
+        "Open Source"
     ],
+
     lifeGoal: "Building Scalable & Modern Applications 🚀"
 };
 ```
@@ -64,7 +72,9 @@ const suraj = {
 
 ---
 
-# 🚀 Languages & Tools
+<h1 align="center" style="font-family:'Times New Roman';">
+🚀 Languages & Tools
+</h1>
 
 <div align="center">
 
@@ -76,45 +86,152 @@ const suraj = {
 
 <div align="center">
 
-| 💻 Frontend | ⚙ Backend | 🗄 Database | ☁ Deployment |
-|---|---|---|---|
-| HTML5 | Node.js | MongoDB | Vercel |
-| CSS3 | PHP | MySQL | Netlify |
-| JavaScript | Express.js | Firebase | GitHub Pages |
-| TypeScript | REST APIs | MongoDB Atlas | Cloudflare |
-| React.js | Next.js | SQL | Render |
-| Tailwind CSS | Authentication | Cloud Storage | Railway |
+<table>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="65"/><br/>
+<b>HTML5</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="65"/><br/>
+<b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="65"/><br/>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="65"/><br/>
+<b>TypeScript</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="65"/><br/>
+<b>React</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65"/><br/>
+<b>Next.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br/>
+<b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="65"/><br/>
+<b>PHP</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br/>
+<b>MongoDB</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br/>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="65"/><br/>
+<b>Firebase</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br/>
+<b>Tailwind CSS</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="65"/><br/>
+<b>C</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br/>
+<b>C++</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br/>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br/>
+<b>Git</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="65"/><br/>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="65"/><br/>
+<b>Figma</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="65"/><br/>
+<b>Vercel</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=netlify" width="65"/><br/>
+<b>Netlify</b>
+</td>
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+<h1 align="center" style="font-family:'Times New Roman';">
+🌐 Connect With Me
+</h1>
 
 <div align="center">
 
-<a href="https://github.com/SurajRawatr07" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="62" />
+<a href="https://github.com/SurajRawatr07">
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
 </a>
 
-<a href="https://www.linkedin.com/in/suraj-rawat-30513b340/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="62" />
+<a href="https://www.linkedin.com/in/suraj-rawat-30513b340/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
 </a>
 
-<a href="https://www.instagram.com/surajrawat07/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="62" />
+<a href="https://www.instagram.com/surajrawat07/">
+<img src="https://skillicons.dev/icons?i=instagram" width="65"/>
 </a>
 
 <a href="mailto:rawatsuraj80627@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="62" />
+<img src="https://skillicons.dev/icons?i=gmail" width="65"/>
 </a>
 
-<a href="https://x.com/SurajRawat45966" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" width="62" />
+<a href="https://x.com/SurajRawat45966">
+<img src="https://skillicons.dev/icons?i=twitter" width="65"/>
 </a>
 
-<a href="https://leetcode.com/u/SurajRawat07/" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" width="62" />
+<a href="https://leetcode.com/u/SurajRawat07/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
 </a>
 
 </div>
@@ -123,83 +240,69 @@ const suraj = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750216-2b4ff29c-61d9-4af4-8f44-1c3f5d1e7f9b.gif" width="90%" />
+<img src="https://media.tenor.com/0hj7K2xE0GAAAAAC/anime-aesthetic.gif" width="100%" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+<h1 align="center" style="font-family:'Times New Roman';">
+📊 GitHub Analytics
+</h1>
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&include_all_commits=true&count_private=true" />
 
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=tokyonight&hide_border=true&border_radius=20" />
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=tokyonight&hide_border=true&border_radius=25" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=tokyo-night&hide_border=true&radius=16&area=true" />
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=tokyo-night&hide_border=true&radius=20&area=true" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+<h1 align="center" style="font-family:'Times New Roman';">
+🏆 GitHub Trophies
+</h1>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
 ---
 
-# 🔥 Featured Skills
+<h1 align="center" style="font-family:'Times New Roman';">
+⚡ GitHub Contribution Snake
+</h1>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-
-<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-
-<img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
-
-<img src="https://img.shields.io/badge/Styling-TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss" />
-
-<img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js" />
-
-<img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-
-<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel" />
-
-<img src="https://img.shields.io/badge/Hosting-Netlify-00C7B7?style=for-the-badge&logo=netlify" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-# ⚡ GitHub Contribution Snake
+<h1 align="center" style="font-family:'Times New Roman';">
+📈 LeetCode Stats
+</h1>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://leetcard.jacoblin.cool/SurajRawat07?theme=dark&font=Times%20New%20Roman&ext=contest" />
 
 </div>
 
 ---
 
-# 📈 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/SurajRawat07?theme=dark&font=Poppins&ext=contest" />
-
-</div>
-
----
-
-# ✨ Random Dev Quote
+<h1 align="center" style="font-family:'Times New Roman';">
+✨ Random Dev Quote
+</h1>
 
 <div align="center">
 
@@ -209,7 +312,9 @@ const suraj = {
 
 ---
 
-# 🎧 Spotify Playing
+<h1 align="center" style="font-family:'Times New Roman';">
+🎧 Spotify Playing
+</h1>
 
 <div align="center">
 
@@ -219,10 +324,8 @@ const suraj = {
 
 ---
 
-# 🌌 Animated Footer
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,20:111827,40:4C1D95,60:7E22CE,80:C026D3,100:EC4899" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:020617,20:0f172a,40:4c1d95,60:7e22ce,80:c026d3,100:ec4899" />
 
 </div>
