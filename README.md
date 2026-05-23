@@ -1,4 +1,4 @@
-<!-- ========================== REAL ICON PREMIUM GITHUB PROFILE README ========================== -->
+<!-- ========================== AURA X FINAL PREMIUM GITHUB PROFILE README ========================== -->
 
 <div align="center">
 
@@ -7,10 +7,6 @@
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=34&pause=1000&color=C084FC&center=true&vCenter=true&width=1200&height=90&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Engineer;⚡+Creative+Frontend+Designer;🔥+Building+Modern+Animated+Projects;🌍+Open+Source+Contributor;📚+Always+Learning+New+Technologies" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="100%" />
 
 <br/><br/>
 
@@ -30,11 +26,7 @@
 
 ---
 
-<h1 align="center">
- 🚀 Languages & Tools
-</h1>
-
-<br/>
+# 🚀 Languages & Tools
 
 <div align="center">
 
@@ -162,17 +154,7 @@
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%" />
-
-</div>
-
----
-
-<h1 align="center">
- 🌐 Connect With Me
-</h1>
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -193,28 +175,18 @@
 </a>
 
 <a href="https://x.com/SurajRawat45966" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/x/ffffff" width="50"/>
 </a>
 
 <a href="https://leetcode.com/u/SurajRawat07/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-</div>
-
----
-
-<h1 align="center">
- 📊 GitHub Analytics
-</h1>
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -230,9 +202,7 @@
 
 ---
 
-<h1 align="center">
- 🏆 GitHub Trophies
-</h1>
+# 🏆 GitHub Trophies
 
 <div align="center">
 
