@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;DSA+Problem+Solver;Open+Source+Learner;Building+Creative+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;Open+Source+Learner;Building+Creative+Projects+Everyday" />
 
 <br/><br/>
 
@@ -27,15 +27,29 @@ const suraj = {
     name: "Suraj Rawat",
     role: "Full Stack Developer",
     education: "BCA Student",
-    learning: ["MERN Stack", "DSA", "Backend"],
-    passion: ["Web Development", "UI/UX", "Creative Projects"],
-    goal: "Building Modern & Responsive Applications 🚀"
+    skills: [
+        "Frontend Development",
+        "Backend Development",
+        "Database Management",
+        "UI/UX Design"
+    ],
+    currentlyLearning: [
+        "Next.js",
+        "TypeScript",
+        "Advanced MERN Stack"
+    ],
+    passion: [
+        "Creative Coding",
+        "Modern Web Design",
+        "Open Source"
+    ],
+    goal: "Building Modern & Scalable Applications 🚀"
 };
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Languages & Tools
 
 <div align="center">
 
@@ -58,86 +72,96 @@ const suraj = {
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="60"/><br/>
-<b>React</b>
+<img src="https://skillicons.dev/icons?i=ts" width="60"/><br/>
+<b>TypeScript</b>
 </td>
 </tr>
 
 <tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="60"/><br/>
+<b>React</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br/>
+<b>Next.js</b>
+</td>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br/>
 <b>Node.js</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="60"/><br/>
-<b>Express.js</b>
+<img src="https://skillicons.dev/icons?i=php" width="60"/><br/>
+<b>PHP</b>
 </td>
+</tr>
 
+<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br/>
 <b>MongoDB</b>
 </td>
 
 <td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br/>
+<b>SQL</b>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=firebase" width="60"/><br/>
 <b>Firebase</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br/>
+<b>Tailwind CSS</b>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="60"/><br/>
-<b>C++</b>
-</td>
-
 <td align="center">
 <img src="https://skillicons.dev/icons?i=c" width="60"/><br/>
 <b>C</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="60"/><br/>
-<b>Java</b>
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/><br/>
+<b>C++</b>
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="60"/><br/>
 <b>Python</b>
 </td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br/>
-<b>Tailwind CSS</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="60"/><br/>
-<b>Bootstrap</b>
-</td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git" width="60"/><br/>
 <b>Git</b>
 </td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="60"/><br/>
-<b>GitHub</b>
-</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="60"/><br/>
-<b>VS Code</b>
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br/>
+<b>GitHub</b>
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=figma" width="60"/><br/>
 <b>Figma</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="60"/><br/>
+<b>Vercel</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=netlify" width="60"/><br/>
+<b>Netlify</b>
 </td>
 </tr>
 
@@ -185,7 +209,7 @@ const suraj = {
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=tokyo-night&hide_border=true&radius=16" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=tokyo-night&hide_border=true&radius=16" />
 
 </div>
 
@@ -213,7 +237,9 @@ const suraj = {
 
 <img src="https://img.shields.io/badge/Styling-TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss" />
 
-<img src="https://img.shields.io/badge/VersionControl-Git-orange?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel" />
+
+<img src="https://img.shields.io/badge/Hosting-Netlify-00C7B7?style=for-the-badge&logo=netlify" />
 
 </div>
 
