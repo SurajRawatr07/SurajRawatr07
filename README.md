@@ -1,27 +1,14 @@
-<!-- ========================= HEADER ========================= -->
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,25:1e293b,50:4c1d95,75:7c3aed,100:c026d3&text=Suraj%20Rawat&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20🚀%20|%20BCA%20Student%20🎓%20|%20Tech%20Explorer%20💡&descAlignY=60&descSize=20" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Frontend+Developer;DSA+Problem+Solver;Open+Source+Learner;Building+Creative+Projects+Everyday" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/SurajRawatr07?style=for-the-badge&color=2563eb" />
-
-<img src="https://img.shields.io/github/stars/SurajRawatr07?style=for-the-badge&color=f59e0b" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,java,python,tailwind,bootstrap,git,github,vscode,firebase,figma&perline=9" />
 
 </div>
 
 ---
 
-
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <div align="center">
 
@@ -49,5 +36,62 @@
 
 ---
 
-##  Thanks For Visiting My Profile
+# 📊 GitHub Analytics
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=tokyonight&hide_border=true&border_radius=20" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=tokyo-night&hide_border=true&radius=16" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 🔥 Featured Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+
+<img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
+
+<img src="https://img.shields.io/badge/Styling-TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss" />
+
+<img src="https://img.shields.io/badge/VersionControl-Git-orange?style=for-the-badge&logo=git" />
+
+</div>
+
+---
+
+# ✨ Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1020,25:111827,50:4C1D95,75:7E22CE,100:C026D3" />
+
+</div>
