@@ -42,28 +42,28 @@ src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&siz
 
 <tr>
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br/><br/>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">HTML5</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br/><br/>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">CSS3</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/><br/>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">JavaScript</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br/><br/>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">TypeScript</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/><br/>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">React.js</b>
 </td>
 
@@ -72,27 +72,27 @@ src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&siz
 <tr>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">Next.js</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">Node.js</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">PHP</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">MongoDB</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">MySQL</b>
 </td>
 
@@ -101,27 +101,27 @@ src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&siz
 <tr>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">Firebase</b>
 </td>
 
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br/><br/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">Tailwind CSS</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">C</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">C++</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">Python</b>
 </td>
 
@@ -130,27 +130,27 @@ src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&siz
 <tr>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">Git</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">GitHub</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">Figma</b>
 </td>
 
 <td align="center">
-<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="50"/><br/><br/>
+<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">Vercel</b>
 </td>
 
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50"/><br/><br/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="42"/><br/><br/>
 <b style="font-family:'Times New Roman';">Netlify</b>
 </td>
 
@@ -169,27 +169,31 @@ src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&siz
 <div align="center">
 
 <a href="https://github.com/SurajRawatr07" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="58"/>
+<img src="https://skillicons.dev/icons?i=github" width="52"/>
 </a>
 
 <a href="https://www.linkedin.com/in/suraj-rawat-30513b340/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="58"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
 
 <a href="https://www.instagram.com/surajrawat07/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="58"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="52"/>
 </a>
 
 <a href="mailto:rawatsuraj80627@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="58"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="52"/>
 </a>
 
+<!-- FIXED X/TWITTER LOGO -->
+
 <a href="https://x.com/SurajRawat45966" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="52"/>
+<img 
+src="https://img.icons8.com/ios-filled/100/ffffff/twitterx--v1.png" 
+width="48"/>
 </a>
 
 <a href="https://leetcode.com/u/SurajRawat07/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
 </a>
 
 </div>
