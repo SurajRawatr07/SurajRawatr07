@@ -196,39 +196,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&siz
 
 ---
 
-<h1 align="center" style="font-family:'Times New Roman';">
-⚔️ Developer Power ⚔️
-</h1>
 
-<div align="center">
-
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajRawatr07&theme=tokyonight" 
-width="100%" 
-/>
-
-<br/><br/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" 
-height="180em"
-/>
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=tokyonight&hide_border=true&border_radius=20" 
-height="180em"
-/>
-
-<br/><br/>
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=tokyo-night&hide_border=true&radius=16&area=true" 
-width="100%" 
-/>
-
-</div>
-
----
 
 <h1 align="center" style="font-family:'Times New Roman';">
 🏆 GitHub Achievements
