@@ -184,11 +184,11 @@ src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&siz
 <img src="https://skillicons.dev/icons?i=gmail" width="52"/>
 </a>
 
-<!-- FIXED X/TWITTER LOGO -->
+<!-- FIXED WORKING X / TWITTER LOGO -->
 
 <a href="https://x.com/SurajRawat45966" target="_blank">
 <img 
-src="https://img.icons8.com/ios-filled/100/ffffff/twitterx--v1.png" 
+src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" 
 width="48"/>
 </a>
 
