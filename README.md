@@ -1,12 +1,14 @@
-<!-- ========================== ELITE PREMIUM GITHUB PROFILE README ========================== -->
+<!-- ========================== MINIMAL ELITE GITHUB PROFILE README ========================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&text=Suraj%20Rawat&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20🚀%20|%20Web%20Designer%20🎨%20|%20BCA%20Student%20📚&descAlignY=58&descSize=20&color=0:020617,15:0f172a,35:312e81,55:6d28d9,75:c026d3,100:ec4899" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:020617,15:0f172a,35:312e81,55:6d28d9,75:c026d3,100:ec4899&section=header"/>
 
-<br/>
+<h1 style="font-family:'Times New Roman'; font-size:55px;">
+Suraj Rawat
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=28&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=900&height=60&lines=🚀+Full+Stack+Developer;🎨+Creative+Web+Designer;💻+MERN+Stack+Developer;📚+BCA+Student;⚡+Building+Modern+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1200&color=C084FC&center=true&vCenter=true&repeat=true&width=700&height=70&lines=📚+BCA+Student;💻+Full+Stack+Web+Developer;🎨+Creative+Web+Designer;⚡+MERN+Stack+Developer" />
 
 <br/><br/>
 
