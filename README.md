@@ -29,56 +29,12 @@
 ---
 
 <h1 align="center" style="font-family:'Times New Roman';">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b>About Me</b>
-</h1>
-
-<div align="center">
-
-<img align="right" width="340" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
-
-</div>
-
-```js
-const suraj = {
-    name: "Suraj Rawat",
-    role: "Full Stack Developer",
-    education: "BCA Student",
-
-    expertise: [
-        "Frontend Development",
-        "Backend Development",
-        "Database Management",
-        "UI/UX Design"
-    ],
-
-    currentlyLearning: [
-        "Next.js",
-        "TypeScript",
-        "Advanced MERN Stack"
-    ],
-
-    hobbies: [
-        "Creative Coding",
-        "3D UI Design",
-        "Open Source"
-    ],
-
-    lifeGoal: "Building Scalable & Modern Applications 🚀"
-};
-```
-
-<br clear="right"/>
-
----
-
-<h1 align="center" style="font-family:'Times New Roman';">
 🚀 Languages & Tools
 </h1>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,mongodb,mysql,firebase,tailwind,c,cpp,python,git,github,figma,vercel,netlify,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,mongodb,mysql,firebase,tailwind,c,cpp,python,git,github,figma,vercel,netlify,vscode&theme=dark&perline=7" />
 
 </div>
 
@@ -86,119 +42,45 @@ const suraj = {
 
 <div align="center">
 
-<table>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="65"/><br/>
-<b>HTML5</b>
-</td>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="65"/><br/>
-<b>CSS3</b>
-</td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="65"/><br/>
-<b>JavaScript</b>
-</td>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="65"/><br/>
-<b>TypeScript</b>
-</td>
-</tr>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="65"/><br/>
-<b>React</b>
-</td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="65"/><br/>
-<b>Next.js</b>
-</td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br/>
-<b>Node.js</b>
-</td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="65"/><br/>
-<b>PHP</b>
-</td>
-</tr>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br/>
-<b>MongoDB</b>
-</td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br/>
-<b>MySQL</b>
-</td>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="65"/><br/>
-<b>Firebase</b>
-</td>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br/>
-<b>Tailwind CSS</b>
-</td>
-</tr>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="65"/><br/>
-<b>C</b>
-</td>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br/>
-<b>C++</b>
-</td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="65"/><br/>
-<b>Python</b>
-</td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="65"/><br/>
-<b>Git</b>
-</td>
-</tr>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="65"/><br/>
-<b>GitHub</b>
-</td>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="65"/><br/>
-<b>Figma</b>
-</td>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="65"/><br/>
-<b>Vercel</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=netlify" width="65"/><br/>
-<b>Netlify</b>
-</td>
-</tr>
-
-</table>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 </div>
 
@@ -211,27 +93,27 @@ const suraj = {
 <div align="center">
 
 <a href="https://github.com/SurajRawatr07">
-<img src="https://skillicons.dev/icons?i=github" width="65"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 <a href="https://www.linkedin.com/in/suraj-rawat-30513b340/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="https://www.instagram.com/surajrawat07/">
-<img src="https://skillicons.dev/icons?i=instagram" width="65"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
 <a href="mailto:rawatsuraj80627@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="65"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
 <a href="https://x.com/SurajRawat45966">
-<img src="https://skillicons.dev/icons?i=twitter" width="65"/>
+<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
 </a>
 
 <a href="https://leetcode.com/u/SurajRawat07/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
 </a>
 
 </div>
@@ -252,9 +134,9 @@ const suraj = {
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&include_all_commits=true&count_private=true" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&include_all_commits=true&count_private=true" />
 
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=tokyonight&hide_border=true&border_radius=25" />
+<img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=tokyonight&hide_border=true&border_radius=25" />
 
 <br/><br/>
 
@@ -271,54 +153,6 @@ const suraj = {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
-<h1 align="center" style="font-family:'Times New Roman';">
-⚡ GitHub Contribution Snake
-</h1>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<h1 align="center" style="font-family:'Times New Roman';">
-📈 LeetCode Stats
-</h1>
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/SurajRawat07?theme=dark&font=Times%20New%20Roman&ext=contest" />
-
-</div>
-
----
-
-<h1 align="center" style="font-family:'Times New Roman';">
-✨ Random Dev Quote
-</h1>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<h1 align="center" style="font-family:'Times New Roman';">
-🎧 Spotify Playing
-</h1>
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w6qj4w2b6j6wq6v2kzq3j2j4fq&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
 </div>
 
