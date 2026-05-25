@@ -163,7 +163,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&siz
 ---
 
 <h1 align="center" style="font-family:'Times New Roman';">
-🌐 Connect With Me
+ Connect With Me
 </h1>
 
 <div align="center">
