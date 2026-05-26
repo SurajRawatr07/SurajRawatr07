@@ -1,7 +1,6 @@
 <!-- ========================== ULTRA MODERN GITHUB PROFILE README ========================== -->
 
 <div align="center">
-
 <h1 align="center" style="font-family:'Times New Roman'; font-size:62px; font-weight:bold;">
  Suraj Rawat 
 </h1>
