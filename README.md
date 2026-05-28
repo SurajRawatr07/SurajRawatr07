@@ -1,19 +1,22 @@
-````md
-<!-- ========================== ULTRA PREMIUM GITHUB README ========================== -->
+<!-- ========================== ULTRA MODERN GITHUB PROFILE README ========================== -->
+
 
 <div align="center">
+<h1 align="center" style="font-family:'Times New Roman'; font-size:62px; font-weight:bold;">
+ Suraj Rawat 
+</h1>
 
-# ✨ Suraj Rawat ✨
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=30&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=850&height=70&lines=📚+BCA+Student;💻+Full+Stack+Web+Developer;🎨+Creative+Web+Designer;⚡+MERN+Stack+Developer;🚀+Building+Modern+Animated+Projects" 
+/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=34&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=💻+Full+Stack+Developer;⚡+MERN+Stack+Developer;🎨+Creative+Frontend+Designer;🚀+Building+Modern+Web+Projects;📚+BCA+Student+%7C+Open+Source+Learner" />
+<br/><br/>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/SurajRawatr07?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb"/>
 
-<img src="https://img.shields.io/github/followers/SurajRawatr07?style=for-the-badge&logo=github&color=2563eb&label=FOLLOWERS" />
-
-<img src="https://img.shields.io/github/stars/SurajRawatr07?style=for-the-badge&logo=github&color=f59e0b&label=TOTAL+STARS" />
+<img src="https://img.shields.io/github/stars/SurajRawatr07?style=for-the-badge&logo=github&label=TOTAL+STARS&color=f59e0b"/>
 
 <br/><br/>
 
@@ -29,7 +32,9 @@
 
 ---
 
-# ⚡ Tech Stack
+<h1 align="center" style="font-family:'Times New Roman';">
+⚡ Tech Stack ⚡
+</h1>
 
 <div align="center">
 
@@ -37,58 +42,29 @@
 
 <tr>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="52"/><br/>
-<b>HTML5</b>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">HTML5</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="52"/><br/>
-<b>CSS3</b>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">CSS3</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="52"/><br/>
-<b>JavaScript</b>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">JavaScript</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="52"/><br/>
-<b>TypeScript</b>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">TypeScript</b>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="52"/><br/>
-<b>React.js</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="52"/><br/>
-<b>Next.js</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="52"/><br/>
-<b>Node.js</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="52"/><br/>
-<b>PHP</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="52"/><br/>
-<b>MongoDB</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="52"/><br/>
-<b>MySQL</b>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">React.js</b>
 </td>
 
 </tr>
@@ -96,28 +72,28 @@
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="52"/><br/>
-<b>Firebase</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">Next.js</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="52"/><br/>
-<b>Tailwind CSS</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">Node.js</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="52"/><br/>
-<b>C</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">PHP</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="52"/><br/>
-<b>C++</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">MongoDB</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="52"/><br/>
-<b>Python</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">MySQL</b>
 </td>
 
 </tr>
@@ -125,28 +101,57 @@
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="52"/><br/>
-<b>Git</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">Firebase</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="52"/><br/>
-<b>GitHub</b>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">Tailwind CSS</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="52"/><br/>
-<b>Figma</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">C</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="52"/><br/>
-<b>Vercel</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">C++</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=netlify" width="52"/><br/>
-<b>Netlify</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">Python</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">Git</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">Figma</b>
+</td>
+
+<td align="center">
+<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">Vercel</b>
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="42"/><br/><br/>
+<b style="font-family:'Times New Roman';">Netlify</b>
 </td>
 
 </tr>
@@ -157,96 +162,52 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajRawatr07&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
+<h1 align="center" style="font-family:'Times New Roman';">
+ Connect With Me
+</h1>
 
 <div align="center">
 
 <a href="https://github.com/SurajRawatr07" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="52"/>
 </a>
 
 <a href="https://www.linkedin.com/in/suraj-rawat-30513b340/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
 
 <a href="https://www.instagram.com/surajrawat07/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="52"/>
 </a>
 
 <a href="mailto:rawatsuraj80627@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="52"/>
 </a>
 
+<!-- FIXED WORKING X / TWITTER LOGO -->
+
 <a href="https://x.com/SurajRawat45966" target="_blank">
-<img src="https://cdn.simpleicons.org/x/ffffff" width="50"/>
+<img 
+src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" 
+width="48"/>
 </a>
 
 <a href="https://leetcode.com/u/SurajRawat07/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
 </a>
 
 </div>
 
 ---
-
-# 🚀 Current Focus
-
-```yaml
-🌱 Learning:
-  - Advanced MERN Stack
-  - Next.js 15
-  - System Design
-  - Backend Architecture
-
-⚡ Building:
-  - Modern Animated Websites
-  - Full Stack Projects
-  - Premium UI/UX Designs
-  - Responsive Web Apps
-
-🎯 Goal:
-  - Become Professional Software Engineer
-````
-
----
-
-# 💡 Developer Quote
+<h1 align="center" style="font-family:'Times New Roman';">
+🏆 GitHub Achievements
+</h1>
 
 <div align="center">
 
-### “Code. Create. Innovate. Repeat.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:06b6d4&height=140&section=footer"/>
+<img 
+src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" 
+/>
 
 </div>
-```
+
