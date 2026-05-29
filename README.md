@@ -6,6 +6,7 @@
  Suraj Rawat 
 </h1>
 
+
 <img 
 src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=30&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=850&height=70&lines=📚+BCA+Student;💻+Full+Stack+Web+Developer;🎨+Creative+Web+Designer;⚡+MERN+Stack+Developer;🚀+Building+Modern+Animated+Projects" 
 />
