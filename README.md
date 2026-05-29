@@ -4,19 +4,11 @@
 src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=42&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&height=70&lines=✨+Suraj+Rawat+✨;📚+BCA+Student;🎨+UI%2FUX+Designer;⚡+MERN+Stack+Developer" 
 />
 
-<h3 align="center" style="font-family:'Times New Roman';">
-Full Stack Developer · Creative Frontend Engineer · Open Source Learner
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE%20VIEWS&color=brightgreen&style=flat" alt="profile-views" />
-</p>
-
 </div>
 
 ---
 
-<div style="font-family:'Times New Roman';">
+<div style="font-family:'Times New Roman'; font-size:20px;">
 
 I don’t just write code — I build <b>modern digital experiences</b>.
 
@@ -35,9 +27,11 @@ And when I'm not coding...
 
 ---
 
-<h3 align="center" style="font-family:'Times New Roman';">🌀 My Vibe</h3>
+<h3 align="center" style="font-family:'Times New Roman'; font-size:34px;">
+🌀 My Vibe
+</h3>
 
-<div style="font-family:'Times New Roman';">
+<div style="font-family:'Times New Roman'; font-size:20px;">
 
 ✨ I code like a creator, design like an artist, and debug like a detective.  
 ⚡ I enjoy modern frontend systems, animations, clean UI, and scalable backend APIs.  
@@ -47,9 +41,11 @@ And when I'm not coding...
 
 ---
 
-<h3 align="center" style="font-family:'Times New Roman';">🧃 I believe:</h3>
+<h3 align="center" style="font-family:'Times New Roman'; font-size:34px;">
+🧃 I believe:
+</h3>
 
-<div align="center" style="font-family:'Times New Roman';">
+<div align="center" style="font-family:'Times New Roman'; font-size:22px;">
 
 > **More Practice = More Skills**  
 > **More Projects = More Experience**  
@@ -59,7 +55,9 @@ And when I'm not coding...
 
 ---
 
-<h3 align="center" style="font-family:'Times New Roman';">📬 Let’s Connect</h3>
+<h3 align="center" style="font-family:'Times New Roman'; font-size:34px;">
+📬 Let’s Connect
+</h3>
 
 <p align="center">
 
