@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img 
@@ -82,16 +81,10 @@ And when I'm not coding...
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
   </a>
 
-  <a href="https://instagram.com/surajrawat07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
 </p>
-
 
 ---
 
 <!---
 SurajRawatr07/SurajRawatr07 is a ✨ README powered by creativity, caffeine, and late-night coding.
--->
-```
+--> 
