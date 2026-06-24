@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img 
 src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=42&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&height=70&lines=✨+Suraj+Rawat+✨;📚+BCA+Student;🎨+UI%2FUX+Designer;⚡+MERN+Stack+Developer" 
 />
