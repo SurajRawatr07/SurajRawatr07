@@ -1,20 +1,16 @@
+<div style="font-family:'Times New Roman', Times, serif;">
+
 <div align="center">
 
 <img 
 src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=42&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&height=70&lines=✨+Suraj+Rawat+✨;📚+BCA+Student;🎨+UI%2FUX+Designer;⚡+MERN+Stack+Developer" 
 />
 
-
-
 </div>
-
-
-
-
 
 ---
 
-<div style="font-family:'Times New Roman'; font-size:20px;">
+<div align="center">
 
 I don’t just write code — I build <b>modern digital experiences</b>.
 
@@ -33,11 +29,11 @@ And when I'm not coding...
 
 ---
 
-<h3 align="center" style="font-family:'Times New Roman'; font-size:34px;">
+<h3 align="center">
 🌀 My Vibe
 </h3>
 
-<div style="font-family:'Times New Roman'; font-size:20px;">
+<div align="center">
 
 ✨ I code like a creator, design like an artist, and debug like a detective.  
 ⚡ I enjoy modern frontend systems, animations, clean UI, and scalable backend APIs.  
@@ -47,11 +43,11 @@ And when I'm not coding...
 
 ---
 
-<h3 align="center" style="font-family:'Times New Roman'; font-size:34px;">
+<h3 align="center">
 🧃 I believe:
 </h3>
 
-<div align="center" style="font-family:'Times New Roman'; font-size:22px;">
+<div align="center">
 
 > **More Practice = More Skills**  
 > **More Projects = More Experience**  
@@ -61,7 +57,7 @@ And when I'm not coding...
 
 ---
 
-<h3 align="center" style="font-family:'Times New Roman'; font-size:34px;">
+<h3 align="center">
 📬 Let’s Connect
 </h3>
 
@@ -93,4 +89,6 @@ And when I'm not coding...
 
 <!---
 SurajRawatr07/SurajRawatr07 is a ✨ README powered by creativity, caffeine, and late-night coding.
--->  
+-->
+
+</div>
