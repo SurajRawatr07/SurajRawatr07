@@ -6,7 +6,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&siz
 
 
 
-
 </div>
 
 
