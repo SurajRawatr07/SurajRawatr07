@@ -26,7 +26,6 @@ And when I'm not coding...
 </div>
 
 ---
-
 <h3 align="center">
 🌀 My Vibe
 </h3>
