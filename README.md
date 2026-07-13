@@ -7,7 +7,8 @@ Suraj Rawat
 </h1>
 
 <h3 style="font-family:'Times New Roman', Times, serif;">
-Full Stack Developer | MERN Stack Enthusiast | BCA Student
+Full Stack Developer 
+  | BCA Student
 </h3>
 
 <p style="font-family:'Times New Roman', Times, serif; font-size:18px;">
@@ -15,7 +16,7 @@ Passionate about crafting high-performance, scalable, and user-centric web appli
 </p>
 
 </div>
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 - 🎓 BCA Student passionate about Web Development
 - 💻 Building projects using the **MERN Stack**
