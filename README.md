@@ -1,17 +1,20 @@
-<div align="center" style="font-family:'Times New Roman', Times, serif;">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=42&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=900&height=70&lines=Suraj+Rawat;Full+Stack+Developer;MERN+Stack+Enthusiast;BCA+Student" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=44&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=950&height=70&lines=Hi%2C+I'm+Suraj+Rawat;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications" />
 
-# Suraj Rawat
+<h1 style="font-family:'Times New Roman', Times, serif;">
+Suraj Rawat
+</h1>
 
-### Full Stack Developer • MERN Stack Enthusiast • BCA Student
+<h3 style="font-family:'Times New Roman', Times, serif;">
+Full Stack Developer | MERN Stack Enthusiast | BCA Student
+</h3>
 
-*Building modern, scalable, and user-friendly web applications.*
+<p style="font-family:'Times New Roman', Times, serif; font-size:18px;">
+Passionate about crafting high-performance, scalable, and user-centric web applications while continuously improving my development skills.
+</p>
 
 </div>
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 BCA Student passionate about Web Development
