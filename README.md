@@ -5,8 +5,7 @@
 
 
 <h3 style="font-family:'Times New Roman', Times, serif;">
-Full Stack Developer 
-  | BCA Student
+
 </h3>
 
 <p style="font-family:'Times New Roman', Times, serif; font-size:18px;">
