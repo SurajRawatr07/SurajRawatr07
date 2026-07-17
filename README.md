@@ -14,7 +14,6 @@
 - 🧠 Practicing **DSA** and improving problem-solving skills
 - 🚀 Learning **Backend Development** and **System Design**
 
-
 ---
 
 ## 🛠 Tech Stack
