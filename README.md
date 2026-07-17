@@ -6,9 +6,6 @@
 
 </h3>
 
-<p style="font-family:'Times New Roman', Times, serif; font-size:18px;">
-Passionate about crafting high-performance, scalable, and user-centric web applications while continuously improving my development skills.
-</p>
 
 </div>
  👨‍💻 About Me
