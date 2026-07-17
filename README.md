@@ -17,7 +17,7 @@ Passionate about crafting high-performance, scalable, and user-centric web appli
 - 💻 Building projects using the **MERN Stack**
 - 🧠 Practicing **DSA** and improving problem-solving skills
 - 🚀 Learning **Backend Development** and **System Design**
-- ✨ Writing clean, scalable, and maintainable code
+
 
 ---
 
