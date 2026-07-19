@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=44&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=950&height=70&lines=Hi%2C+I'm+Suraj+Rawat;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications" />
 
 <h3 style="font-family:'Times New Roman', Times, serif;">
