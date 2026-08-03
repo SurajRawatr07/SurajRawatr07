@@ -7,6 +7,7 @@
 </div>
  👨‍💻 About Me
 
+
 - 🎓 BCA Student passionate about Web Development
 - 💻 Building projects using the **MERN Stack**
 - 🧠 Practicing **DSA** and improving problem-solving skills
