@@ -100,11 +100,6 @@
 
 ---
 
-<div align="center">
-
-<img width="360" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-
-# 💙 Code • Learn • Build • Repeat
 
 ⭐ Thanks for visiting my profile! ⭐
 
