@@ -12,21 +12,23 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyZG11YW5sNnI3bHN4Y2Qyb25uYTJnMnE5NjA5M3N2NHJsZHFoOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uurtMtTKqkJda4dk8Y/giphy.gif">
 
 🎓 **BCA Student** passionate about Software Development
 
-💻 Building scalable and responsive web applications using the **MERN Stack**
+💻 **Full Stack Developer** focused on creating modern web applications
 
-🚀 Currently learning **Next.js**, **Backend Development**, and **System Design**
+🚀 Building projects with the **MERN Stack**
 
-🧠 Solving **Data Structures & Algorithms** to improve problem-solving skills
+🌱 Currently learning **Next.js**, **Backend Development** & **System Design**
 
-🌱 Exploring **Open Source** and modern web technologies
+🧠 Practicing **DSA** and improving problem-solving skills
 
-⚡ I enjoy transforming ideas into real-world applications.
+💡 Interested in **Open Source** and scalable applications
 
-<br>
+⚡ Always exploring new technologies and improving my skills
+
+<br clear="right"/>
 
 ---
 
@@ -34,17 +36,13 @@
 
 <div align="center">
 
-<a href="https://suraj-rawat-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://suraj-rawat-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-### 🚀 Explore my projects, skills, and experience
-
-<a href="https://suraj-rawat-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/suraj--rawat--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+🚀 **Projects • Skills • Experience**
 
 </div>
 
@@ -124,14 +122,10 @@
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyZG11YW5sNnI3bHN4Y2Qyb25uYTJnMnE5NjA5M3N2NHJsZHFoOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uurtMtTKqkJda4dk8Y/giphy.gif" width="280"/>
+
 ## 💙 Code • Learn • Build • Repeat
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-<p>
-<i>Let's build something amazing together 🚀</i>
-</p>
+⭐ Thanks for visiting my profile! ⭐
 
 </div>
