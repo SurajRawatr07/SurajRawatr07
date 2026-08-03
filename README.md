@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=42&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Suraj+Rawat;Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=42&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Suraj+Rawat;Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Building+Modern+Web+Applications" />
 
 <br>
 
@@ -14,21 +14,39 @@
 
 <img align="right" width="360" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-🎓 **BCA Student**
+🎓 **BCA Student** passionate about Software Development
 
-💻 Passionate about **Full Stack Development**
+💻 Building scalable and responsive web applications using the **MERN Stack**
 
-🚀 Building modern web applications using the **MERN Stack**
+🚀 Currently learning **Next.js**, **Backend Development**, and **System Design**
 
-🌱 Currently learning **Next.js**, **Backend Development** & **System Design**
+🧠 Solving **Data Structures & Algorithms** to improve problem-solving skills
 
-🧠 Solving **Data Structures & Algorithms** every day
+🌱 Exploring **Open Source** and modern web technologies
 
-💡 Exploring Open Source and writing clean, scalable code
-
-⚡ Always curious to learn new technologies.
+⚡ I enjoy transforming ideas into real-world applications.
 
 <br>
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://suraj-rawat-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🚀 Explore my projects, skills, and experience
+
+<a href="https://suraj-rawat-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/suraj--rawat--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -84,6 +102,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://suraj-rawat-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/SurajRawatr07">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -100,7 +122,16 @@
 
 ---
 
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+## 💙 Code • Learn • Build • Repeat
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<p>
+<i>Let's build something amazing together 🚀</i>
+</p>
 
 </div>
