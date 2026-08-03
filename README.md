@@ -12,21 +12,21 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyZG11YW5sNnI3bHN4Y2Qyb25uYTJnMnE5NjA5M3N2NHJsZHFoOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uurtMtTKqkJda4dk8Y/giphy.gif">
+<img align="right" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYngxODFjYXlpN25yc2pxNm9qa2I5dXNhenc2NmMxMTZvYm4wOWR6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uurtMtTKqkJda4dk8Y/giphy.gif">
 
 🎓 **BCA Student** passionate about Software Development
 
-💻 **Full Stack Developer** focused on creating modern web applications
+💻 **Full Stack Developer** creating modern web experiences
 
-🚀 Building projects with the **MERN Stack**
+🚀 Building scalable applications using the **MERN Stack**
 
-🌱 Currently learning **Next.js**, **Backend Development** & **System Design**
+🌱 Learning **Next.js**, **Backend Development** & **System Design**
 
 🧠 Practicing **DSA** and improving problem-solving skills
 
-💡 Interested in **Open Source** and scalable applications
+💡 Exploring **Open Source** and new technologies
 
-⚡ Always exploring new technologies and improving my skills
+⚡ Turning ideas into real-world applications
 
 <br clear="right"/>
 
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZyZG11YW5sNnI3bHN4Y2Qyb25uYTJnMnE5NjA5M3N2NHJsZHFoOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uurtMtTKqkJda4dk8Y/giphy.gif" width="280"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYngxODFjYXlpN25yc2pxNm9qa2I5dXNhenc2NmMxMTZvYm4wOWR6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uurtMtTKqkJda4dk8Y/giphy.gif" width="300"/>
 
 ## 💙 Code • Learn • Build • Repeat
 
