@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=42&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Rawat;Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Suraj Rawat
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=34&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Competitive+Programmer;Building+Modern+Web+Applications" />
 
-<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=Profile+Views&color=2563eb&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-🎓 BCA Student passionate about Software Development
+🎓 **BCA Student**
 
-💻 Building scalable applications using the **MERN Stack**
+💻 Passionate **Full Stack Developer**
 
-🌱 Currently learning **Backend Development**, **Next.js**, and **System Design**
+🌱 Currently Learning **Next.js**, **Backend**, **System Design**
 
-🧠 Solving **Data Structures & Algorithms** problems every day
+🧠 Solving **Data Structures & Algorithms**
 
-🚀 Interested in Full Stack Development and Open Source
+🚀 Building real-world projects with the **MERN Stack**
 
-⚡ Fun Fact: I enjoy turning ideas into real-world web applications.
+⚡ Love creating beautiful and responsive web applications.
 
 ---
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind,postman&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind,postman&perline=7"/>
 
 </div>
 
@@ -53,6 +53,16 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/SurajRawat07?theme=dark&font=Nunito&ext=heatmap"/>
 
 </div>
 
@@ -86,22 +96,10 @@
 
 ---
 
-# 💻 Coding Profiles
-
 <div align="center">
 
-<a href="https://leetcode.com/u/SurajRawat07/">
-<img src="https://leetcard.jacoblin.cool/SurajRawat07?theme=dark&font=Baloo&ext=heatmap"/>
-</a>
+## 💙 Code • Learn • Build • Repeat
 
-</div>
-
----
-
-<div align="center">
-
-### 💙 *Code • Learn • Build • Repeat*
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!+🚀"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:38BDF8&height=120&section=footer"/>
 
 </div>
