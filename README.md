@@ -1,30 +1,34 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Suraj Rawat
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=42&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Suraj+Rawat;Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Building+Modern+Web+Applications" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=34&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Competitive+Programmer;Building+Modern+Web+Applications" />
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=Profile+Views&color=2563eb&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 🎓 **BCA Student**
 
-💻 Passionate **Full Stack Developer**
+💻 Passionate about **Full Stack Development**
 
-🌱 Currently Learning **Next.js**, **Backend**, **System Design**
+🚀 Building modern web applications using the **MERN Stack**
 
-🧠 Solving **Data Structures & Algorithms**
+🌱 Currently learning **Next.js**, **Backend Development** & **System Design**
 
-🚀 Building real-world projects with the **MERN Stack**
+🧠 Solving **Data Structures & Algorithms** every day
 
-⚡ Love creating beautiful and responsive web applications.
+💡 Exploring Open Source and writing clean, scalable code
+
+⚡ Always curious to learn new technologies.
+
+<br>
 
 ---
 
@@ -32,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind,postman&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind,postman&perline=8"/>
 
 </div>
 
@@ -98,8 +102,10 @@
 
 <div align="center">
 
-## 💙 Code • Learn • Build • Repeat
+<img width="360" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:38BDF8&height=120&section=footer"/>
+# 💙 Code • Learn • Build • Repeat
+
+⭐ Thanks for visiting my profile! ⭐
 
 </div>
