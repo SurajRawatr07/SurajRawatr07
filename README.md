@@ -219,25 +219,7 @@ console.log("Keep Building 🚀");
 
 ---
 
-# `github trophies`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
-
-</div>
-
----
-
-# `activity graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
 
 # `achievement unlocked`
 
@@ -305,15 +287,7 @@ console.log("Feel free to connect 🚀");
 
 ---
 
-# `random dev quote`
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
-
-</div>
-
----
 
 # `support`
 
