@@ -1,138 +1,265 @@
 <div align="center">
 
-# ███████╗██╗   ██╗██████╗  █████╗      ██╗
-# ██╔════╝██║   ██║██╔══██╗██╔══██╗     ██║
-# ███████╗██║   ██║██████╔╝███████║     ██║
-# ╚════██║██║   ██║██╔══██╗██╔══██║██   ██║
-# ███████║╚██████╔╝██║  ██║██║  ██║╚█████╔╝
-# ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
-
-### Full-Stack Developer 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Suraj+Rawat+%F0%9F%91%8B;Full-Stack+Developer;Founder+of+TECH+CIRCLE;Building+Cool+Things+with+MERN+Stack;Always+Learning+Something+New+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-## `visitor@github:~$ cat ./about_me.txt`
+```text
+███████╗██╗   ██╗██████╗  █████╗      ██╗
+██╔════╝██║   ██║██╔══██╗██╔══██╗     ██║
+███████╗██║   ██║██████╔╝███████║     ██║
+╚════██║██║   ██║██╔══██╗██╔══██║██   ██║
+███████║╚██████╔╝██║  ██║██║  ██║╚█████╔╝
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+```
+
+<div align="center">
+
+# 💻 Full-Stack Developer | MERN Stack Developer
+
+<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# `visitor@github:~$ whoami`
 
 ```bash
-Name       : Suraj Rawat
-Username   : SurajRawatr07
-Role       : Full-Stack Developer
+$ cat about_me.txt
 
-Education  : BCA Final Year
-College    : Graphic Era Hill University
+Name        : Suraj Rawat
 
-Focus      : MERN Stack Development
-Community  : Founder @ TECH CIRCLE
+Username    : SurajRawatr07
 
-Learning   : Next.js • TypeScript • System Design
+Role        : Full-Stack Developer
 
-Status     : ████████████████ Shipping Projects 🚀
+Education   : BCA Final Year
 
-Collab     : OPEN — Let's build something amazing ✅
+University  : Graphic Era Hill University
+
+Location    : Uttarakhand, India 🇮🇳
+
+Community   : Founder @ TECH CIRCLE
+
+Focus       : MERN Stack Development
+
+Interest    : Web Development
+              Open Source
+              UI/UX
+              System Design
+
+Currently   : Building impactful developer projects
+
+Learning    : Next.js
+              TypeScript
+              Docker
+              AWS
+
+Status      : ████████████████ 100%
+
+Available   : YES ✅
 ```
 
 ---
 
-# > tech.stack
+# `ls tech-stack/`
 
-## 💻 Frontend
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux)
+### 🎨 Frontend
 
----
+<p align="center">
 
-## ⚙ Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite" />
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio)
+</p>
 
----
+</td>
 
-## 🗄 Database
+<td valign="top" width="33%">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+### ⚙ Backend
 
----
+<p align="center">
 
-## 🛠 Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,prisma" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+</p>
 
----
+</td>
 
-# > github.stats
+<td valign="top" width="33%">
 
-<div align="center">
+### 🛠 Tools
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=github_dark&hide_border=true"/>
+<p align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajRawatr07&theme=github-dark-blue&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,linux,npm" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajRawatr07&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-# > currently.learning
+# `cat currently_learning.js`
 
 ```javascript
-const currentlyLearning = {
+const Suraj = {
 
-    frontend: [
-        "Next.js",
+    code: [
+        "JavaScript",
         "TypeScript",
-        "Framer Motion"
+        "React",
+        "Next.js",
+        "Node.js"
     ],
 
     backend: [
-        "Microservices",
-        "Redis",
-        "Docker"
+        "Express",
+        "MongoDB",
+        "REST APIs",
+        "JWT",
+        "Socket.io"
     ],
 
-    goal: "Crack a 20+ LPA Software Engineer Role",
+    currentlyLearning: [
+        "System Design",
+        "Docker",
+        "AWS",
+        "Redis"
+    ],
 
-    building: [
-        "TECH CIRCLE",
-        "AI Resume Builder",
-        "Developer Portfolio"
-    ]
+    goals: [
+
+        "20+ LPA Software Engineer",
+
+        "Open Source Contributor",
+
+        "Build Products Used by Thousands"
+
+    ],
+
+    community: {
+
+        name: "TECH CIRCLE",
+
+        role: "Founder",
+
+        mission: "Helping Students Learn & Grow Together"
+
+    }
+
 };
+
+console.log("Keep Building 🚀");
 ```
 
 ---
 
-# > activity.graph
+# `tree featured_projects`
+
+```text
+📦 Projects
+│
+├── 🚀 SmartResume
+│      AI Resume Builder
+│
+├── 🌐 TECH CIRCLE
+│      Student Developer Community
+│
+├── 💼 Developer Portfolio
+│
+├── 🛒 MERN E-Commerce
+│
+├── 🤖 AI Exam Portal
+│
+└── 📚 More Projects...
+```
+
+---
+
+# `echo social_links`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=github-dark"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SurajRawatr07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/suraj-rawat-30513b340)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://suraj-rawat-portfolio.vercel.app)
+[![Website](https://img.shields.io/badge/TECH_CIRCLE-2563EB?style=for-the-badge)](https://techcircle.vercel.app)
 
 </div>
 
 ---
 
-# > contact.init()
+# `github stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=SurajRawatr07&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajRawatr07&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# `github trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SurajRawatr07&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+
+</div>
+
+---
+
+# `activity graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# `achievement unlocked`
+
+```text
+🏆 BCA Final Year Student
+
+🚀 Full-Stack MERN Developer
+
+🌐 Founder of TECH CIRCLE
+
+💻 Passionate Open Source Learner
+
+📚 Continuous Learning Mindset
+
+⚡ Building Real-World Projects
+
+🎯 Goal → 20+ LPA Software Engineer
+```
+
+---
+
+# `contact.init()`
 
 ```javascript
 const contact = {
@@ -147,21 +274,69 @@ const contact = {
 
     email: "your-email@gmail.com",
 
-    status: "Open to Internships & Collaborations 🟢"
+    status: "Open to Internship & Collaboration 🟢"
 
 };
 
-console.log("Thanks for visiting my profile 🚀");
+console.log("Feel free to connect 🚀");
 ```
+
+---
+
+# `visitor.log`
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=Visitors&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+# `snake contribution`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** Snake animation tabhi chalegi jab tum GitHub Actions se `Platane/snk` workflow setup karoge.
+
+---
+
+# `random dev quote`
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+</div>
+
+---
+
+# `support`
+
+<div align="center">
+
+If you like my work,
+
+⭐ Star my repositories
+
+🍴 Fork projects
+
+🤝 Let's collaborate
+
+☕ Keep building amazing things.
+
+</div>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=SurajRawatr07&style=for-the-badge&color=blue)
+## Thanks for visiting my profile ❤️
 
-### ⭐ Thanks for visiting my GitHub Profile ⭐
-
-**Building scalable web apps, one commit at a time 🚀**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Happy+Coding!;See+You+Again+%F0%9F%91%8B;Keep+Learning+Keep+Building+%F0%9F%9A%80"/>
 
 </div>
