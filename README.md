@@ -17,11 +17,6 @@
 ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝
 ```
 
-# 💻 Full-Stack Developer | MERN Stack Developer
-
-<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-</div>
 
 ---
 
@@ -109,60 +104,7 @@ Available   : YES ✅
 
 ---
 
-# `cat currently_learning.js`
 
-```javascript
-const Suraj = {
-
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "Node.js"
-    ],
-
-    backend: [
-        "Express",
-        "MongoDB",
-        "REST APIs",
-        "JWT",
-        "Socket.io"
-    ],
-
-    currentlyLearning: [
-        "System Design",
-        "Docker",
-        "AWS",
-        "Redis"
-    ],
-
-    goals: [
-
-        "20+ LPA Software Engineer",
-
-        "Open Source Contributor",
-
-        "Build Products Used by Thousands"
-
-    ],
-
-    community: {
-
-        name: "TECH CIRCLE",
-
-        role: "Founder",
-
-        mission: "Helping Students Learn & Grow Together"
-
-    }
-
-};
-
-console.log("Keep Building 🚀");
-```
-
----
 
 # `tree featured_projects`
 
@@ -236,7 +178,6 @@ console.log("Keep Building 🚀");
 
 ⚡ Building Real-World Projects
 
-🎯 Goal → 20+ LPA Software Engineer
 ```
 
 ---
