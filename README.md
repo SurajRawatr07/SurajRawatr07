@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Suraj+Rawat+%F0%9F%91%8B;Full-Stack+Developer;Founder+of+TECH+CIRCLE;Building+Cool+Things+with+MERN+Stack;Always+Learning+Something+New+%F0%9F%9A%80" />
 
 </div>
