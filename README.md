@@ -17,7 +17,6 @@
 
 
 ---
-
 # `visitor@github:~$ whoami`
 
 ```bash
