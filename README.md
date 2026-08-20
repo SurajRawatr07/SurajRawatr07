@@ -10,7 +10,6 @@
 
 ---
 
-
 # `visitor@github:~$ whoami`
 
 ```bash
