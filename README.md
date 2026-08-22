@@ -4,8 +4,6 @@
 
 <br/>
 
-### 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 • 𝐁𝐂𝐀 𝐅𝐢𝐧𝐚𝐥 𝐘𝐞𝐚𝐫 • 𝐓𝐄𝐂𝐇 𝐂𝐈𝐑𝐂𝐋𝐄 𝐅𝐨𝐮𝐧𝐝𝐞𝐫
-
 </div>
 ---
 
@@ -39,16 +37,6 @@ Status     : Open to Internships & Collaboration 🟢
 
 ---
 
-# `🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬`
-
-```text
-🚀 SmartResume       → AI Resume Builder
-🌐 TECH CIRCLE       → Developer Community
-🤖 AI Exam Portal    → AI-Powered Examination System
-🛒 MERN E-Commerce   → Full-Stack Marketplace
-💻 Developer Portfolio
-```
-
 ---
 
 # `📊 github@stats`
@@ -67,15 +55,6 @@ Status     : Open to Internships & Collaboration 🟢
 
 ---
 
-# `🏆 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬`
-
-<div align="center">
-
-**🚀 Full-Stack Developer**
-**🌐 Founder — TECH CIRCLE**
-**💻 Open Source Enthusiast**
-**⚡ Real-World Project Builder**
-**🧠 Continuous Learner**
 
 </div>
 
@@ -94,23 +73,9 @@ Status     : Open to Internships & Collaboration 🟢
 
 ---
 
-# `👀 visitor.log`
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 
-</div>
-
----
-
-<div align="center">
-
-### 𝐁𝐮𝐢𝐥𝐝 • 𝐋𝐞𝐚𝐫𝐧 • 𝐈𝐦𝐩𝐫𝐨𝐯𝐞 • 𝐑𝐞𝐩𝐞𝐚𝐭 🚀
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Happy+Coding!+👋;Keep+Learning+%26+Building+🚀;See+You+Around!+❤️"/>
-
-<br/>
 
 ⭐ **Thanks for visiting my profile!**
 
