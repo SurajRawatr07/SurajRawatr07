@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey+There!+I'm+Suraj+Rawat+%F0%9F%91%8B;Full-Stack+Developer;Founder+of+TECH+CIRCLE;Building+%26+Learning+Every+Day+%F0%9F%9A%80" />
@@ -173,4 +172,3 @@
 ⭐ **Thanks for visiting my profile!**
 
 </div>
-```
