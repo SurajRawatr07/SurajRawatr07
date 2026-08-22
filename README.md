@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Suraj+Rawat+👋;Full-Stack+Developer;Founder+%40+TECH+CIRCLE;Building+Useful+Things+for+Real+People" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Suraj+Rawat+%F0%9F%91%8B;Full-Stack+Developer;Founder+%40+TECH+CIRCLE;Building+Useful+Things+for+Real+People" />
 
 <br/>
 
@@ -15,44 +15,12 @@
 ## `whoami`
 
 ```text
-Suraj Rawat
-Full-Stack Developer · Builder · Open-Source Enthusiast
+Name        : Suraj Rawat
+Role        : Full-Stack Developer · Builder · Open-Source Enthusiast
+Education   : BCA Final Year — Graphic Era Hill University
+Location    : Uttarakhand, India 🇮🇳
 
-🎓 BCA Final Year — Graphic Era Hill University
-📍 Uttarakhand, India 🇮🇳
-
-⚙️ Building        MERN & Next.js applications
-🧠 Exploring       AI/ML, Cloud & DevOps
-🚀 Currently       Working on real-world projects
-🌐 Community       Founder of TECH CIRCLE
-🤝 Open to         Internships · Collaborations · Open Source
-
-## `🤝 Connect With Me`
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/SurajRawatr07">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/suraj-rawat-30513b340">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://suraj-rawat-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://techcircle.vercel.app">
-  <img src="https://img.shields.io/badge/TECH%20CIRCLE-2563EB?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-
-</div>
+Building    : MERN & Next.js Applications
+Exploring   : AI/ML · Cloud · DevOps
+Community   : Founder of TECH CIRCLE
+Open To     : Internships · Collaborations · Open Source
