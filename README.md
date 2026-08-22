@@ -13,3 +13,37 @@
 - 🧠 Interested in **System Design, AI/ML, Cloud & Open Source**
 - 🏆 Actively participating in **Hackathons, Open Source & Developer Communities**
 - 🤝 Open to **Internships, Collaborations & Open-Source Contributions**
+
+<br/>
+
+<div align="center">
+
+### 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/suraj-rawat-30513b340">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://suraj-rawat-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/SurajRawatr07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://techcircle.vercel.app">
+<img src="https://img.shields.io/badge/TECH%20CIRCLE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
