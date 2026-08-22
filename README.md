@@ -40,31 +40,7 @@
 
 ---
 
-# `🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬`
 
-<div align="center">
-
-<a href="https://github.com/SurajRawatr07">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajRawatr07&repo=SmartResume&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/SurajRawatr07">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajRawatr07&repo=TECH-CIRCLE&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **SmartResume** | AI-powered resume builder with ATS-focused features | React · TypeScript · Node.js |
-| **TECH CIRCLE** | Developer community for coding, opportunities & networking | React · TypeScript · Tailwind |
-| **AI Exam Portal** | AI-powered examination platform with monitoring features | React · Node.js · AI |
-| **MERN E-Commerce** | Full-stack marketplace with authentication & APIs | MERN · JWT |
-| **Developer Portfolio** | Personal portfolio showcasing projects & experience | React · TypeScript · Vite |
-
----
 
 # `🌱 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠`
 
@@ -105,19 +81,7 @@
 
 ---
 
-# `📚 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐆𝐫𝐨𝐰𝐭𝐡`
 
-<div align="center">
-
-**Code** → **Build** → **Break** → **Learn** → **Improve** → **Ship**
-
-<br/>
-
-*Always curious. Always building. Always improving.*
-
-</div>
-
----
 
 # `🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞`
 
@@ -163,12 +127,9 @@
 
 <div align="center">
 
-### 𝐁𝐮𝐢𝐥𝐝 • 𝐋𝐞𝐚𝐫𝐧 • 𝐈𝐦𝐩𝐫𝐨𝐯𝐞 • 𝐑𝐞𝐩𝐞𝐚𝐭 🚀
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%93%9A;Keep+Growing+%F0%9F%8C%B1" />
 
 <br/><br/>
-
-⭐ **Thanks for visiting my profile!**
 
 </div>
