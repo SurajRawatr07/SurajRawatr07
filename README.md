@@ -4,9 +4,7 @@
 
 <br/>
 
-### 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 · 𝐁𝐂𝐀 𝐅𝐢𝐧𝐚𝐥 𝐘𝐞𝐚𝐫 · 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
 
-*Building practical web applications, solving real problems, and learning something new every day.*
 
 </div>
 
