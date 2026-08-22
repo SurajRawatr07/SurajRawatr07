@@ -26,3 +26,33 @@ Full-Stack Developer · Builder · Open-Source Enthusiast
 🚀 Currently       Working on real-world projects
 🌐 Community       Founder of TECH CIRCLE
 🤝 Open to         Internships · Collaborations · Open Source
+
+## `🤝 Connect With Me`
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/SurajRawatr07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/suraj-rawat-30513b340">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://suraj-rawat-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://techcircle.vercel.app">
+  <img src="https://img.shields.io/badge/TECH%20CIRCLE-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+</div>
