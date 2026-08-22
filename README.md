@@ -40,47 +40,6 @@
 
 
 
-# `🌱 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠`
-
-<div align="center">
-
-`AI/ML` · `System Design` · `Docker` · `AWS` · `Open Source` · `Next.js` · `TypeScript`
-
-</div>
-
----
-
-# `📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=SurajRawatr07&theme=github-dark-blue&hide_border=true"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajRawatr07&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-# `🏆 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬`
-
-<div align="center">
-
-| 🚀 | 💻 | 🌐 | 🧠 |
-| :---: | :---: | :---: | :---: |
-| **Hackathons** | **Full-Stack** | **Community** | **Problem Solving** |
-| Building under pressure | MERN & Next.js | TECH CIRCLE Founder | DSA & Real-World Projects |
-
-</div>
-
----
-
-
-
 # `🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞`
 
 <div align="center">
