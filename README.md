@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey+There!+I'm+Suraj+Rawat+%F0%9F%91%8B;Full-Stack+Developer;Founder+of+TECH+CIRCLE;Building+%26+Learning+Every+Day+%F0%9F%9A%80" />
@@ -14,22 +15,162 @@
 
 # `👨‍💻 About Me`
 
-```text
-🎓 BCA Final Year Student @ Graphic Era Hill University
+<div align="center">
 
-💻 Full-Stack Developer
-   MERN • Next.js • TypeScript
+### 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬. 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐫𝐞𝐚𝐥 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬. 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐞𝐯𝐞𝐫𝐲 𝐝𝐚𝐲. 🚀
 
-🚀 Building real-world products and exploring AI-powered solutions
+</div>
 
-🌐 Founder of TECH CIRCLE
-   A developer-focused community for learning, opportunities & networking
+- 🎓 **BCA Final Year Student** at Graphic Era Hill University
+- 💻 **Full-Stack Developer** focused on MERN, Next.js & TypeScript
+- 🚀 Building **real-world products** and experimenting with AI-powered solutions
+- 🌐 **Founder of TECH CIRCLE**, a developer-focused community
+- 🧠 Interested in **System Design, AI/ML, Cloud & Open Source**
+- 🏆 Actively participating in **Hackathons, Open Source & Developer Communities**
+- 🤝 Open to **Internships, Collaborations & Open-Source Contributions**
 
-🧠 Currently exploring
-   AI/ML • System Design • Docker • AWS • Open Source
+---
 
-🏆 Interested in
-   Hackathons • Open Source • DSA • Product Development
+# `⚡ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤`
 
-🤝 Open to
-   Internships • Collaborations • Open-Source Contributions
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,postgres,prisma,git,github,docker,aws,vercel,postman,vscode,linux&perline=11" />
+
+</div>
+
+---
+
+# `🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬`
+
+<div align="center">
+
+<a href="https://github.com/SurajRawatr07">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajRawatr07&repo=SmartResume&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/SurajRawatr07">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajRawatr07&repo=TECH-CIRCLE&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **SmartResume** | AI-powered resume builder with ATS-focused features | React · TypeScript · Node.js |
+| **TECH CIRCLE** | Developer community for coding, opportunities & networking | React · TypeScript · Tailwind |
+| **AI Exam Portal** | AI-powered examination platform with monitoring features | React · Node.js · AI |
+| **MERN E-Commerce** | Full-stack marketplace with authentication & APIs | MERN · JWT |
+| **Developer Portfolio** | Personal portfolio showcasing projects & experience | React · TypeScript · Vite |
+
+---
+
+# `🌱 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠`
+
+<div align="center">
+
+`AI/ML` · `System Design` · `Docker` · `AWS` · `Open Source` · `Next.js` · `TypeScript`
+
+</div>
+
+---
+
+# `📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=SurajRawatr07&theme=github-dark-blue&hide_border=true"/>
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajRawatr07&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# `🏆 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬`
+
+<div align="center">
+
+| 🚀 | 💻 | 🌐 | 🧠 |
+| :---: | :---: | :---: | :---: |
+| **Hackathons** | **Full-Stack** | **Community** | **Problem Solving** |
+| Building under pressure | MERN & Next.js | TECH CIRCLE Founder | DSA & Real-World Projects |
+
+</div>
+
+---
+
+# `📚 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐆𝐫𝐨𝐰𝐭𝐡`
+
+<div align="center">
+
+**Code** → **Build** → **Break** → **Learn** → **Improve** → **Ship**
+
+<br/>
+
+*Always curious. Always building. Always improving.*
+
+</div>
+
+---
+
+# `🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞`
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SurajRawatr07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/suraj-rawat-30513b340">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://suraj-rawat-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://techcircle.vercel.app">
+<img src="https://img.shields.io/badge/TECH_CIRCLE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# `👀 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬`
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 𝐁𝐮𝐢𝐥𝐝 • 𝐋𝐞𝐚𝐫𝐧 • 𝐈𝐦𝐩𝐫𝐨𝐯𝐞 • 𝐑𝐞𝐩𝐞𝐚𝐭 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%93%9A;Keep+Growing+%F0%9F%8C%B1" />
+
+<br/><br/>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
+```
