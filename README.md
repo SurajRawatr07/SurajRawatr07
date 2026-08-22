@@ -1,26 +1,15 @@
+## `👨‍💻 About Me`
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Suraj+Rawat+%F0%9F%91%8B;Full-Stack+Developer;Founder+%40+TECH+CIRCLE;Building+Useful+Things+for+Real+People" />
-
-<br/>
-
-### 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 · 𝐁𝐂𝐀 𝐅𝐢𝐧𝐚𝐥 𝐘𝐞𝐚𝐫 · 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
-
-*Turning ideas into practical, scalable web applications.*
+### 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬. 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐫𝐞𝐚𝐥 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬. 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐞𝐯𝐞𝐫𝐲 𝐝𝐚𝐲. 🚀
 
 </div>
 
----
-
-## `whoami`
-
-```text
-Name        : Suraj Rawat
-Role        : Full-Stack Developer · Builder · Open-Source Enthusiast
-Education   : BCA Final Year — Graphic Era Hill University
-Location    : Uttarakhand, India 🇮🇳
-
-Building    : MERN & Next.js Applications
-Exploring   : AI/ML · Cloud · DevOps
-Community   : Founder of TECH CIRCLE
-Open To     : Internships · Collaborations · Open Source
+- 🎓 **BCA Final Year Student** at Graphic Era Hill University
+- 💻 **Full-Stack Developer** focused on MERN, Next.js & TypeScript
+- 🚀 Building **real-world products** and experimenting with AI-powered solutions
+- 🌐 **Founder of TECH CIRCLE**, a developer-focused community
+- 🧠 Interested in **System Design, AI/ML, Cloud & Open Source**
+- 🏆 Actively participating in **Hackathons, Open Source & Developer Communities**
+- 🤝 Open to **Internships, Collaborations & Open-Source Contributions**
