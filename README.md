@@ -13,13 +13,13 @@
 
 </div>
 
--  **BCA Final Year Student** at Graphic Era Hill University
--  **Full-Stack Developer** focused on MERN, Next.js & TypeScript
--  Building **real-world products** and experimenting with AI-powered solutions
--  **Founder of TECH CIRCLE**, a developer-focused community
--  Interested in **System Design, AI/ML, Cloud & Open Source**
--  Actively participating in **Hackathons, Open Source & Developer Communities**
--  Open to **Internships, Collaborations & Open-Source Contributions**
+- **𝐁𝐂𝐀 𝐅𝐢𝐧𝐚𝐥 𝐘𝐞𝐚𝐫 𝐒𝐭𝐮𝐝𝐞𝐧𝐭** at Graphic Era Hill University
+- **𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** focused on MERN, Next.js & TypeScript
+- Building **𝐑𝐞𝐚𝐥-𝐖𝐨𝐫𝐥𝐝 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬** and experimenting with AI-powered solutions
+- **𝐅𝐨𝐮𝐧𝐝𝐞𝐫 𝐨𝐟 𝐓𝐄𝐂𝐇 𝐂𝐈𝐑𝐂𝐋𝐄**, a developer-focused community
+- Interested in **𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐀𝐈/𝐌𝐋, 𝐂𝐥𝐨𝐮𝐝 & 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞**
+- Actively participating in **𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧𝐬, 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 & 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐢𝐞𝐬**
+- Open to **𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩𝐬, 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧𝐬 & 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬**
 
 ---
 
