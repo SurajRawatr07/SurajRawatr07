@@ -4,9 +4,10 @@
 
 <br/>
 </div>
+
 ---
 
-# `About Me`
+# `𝐀𝐛𝐨𝐮𝐭 𝐌𝐞`
 
 <div align="center">
 
@@ -24,18 +25,15 @@
 
 ---
 
-
 # `⚡ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,postgres,prisma,git,github,docker,aws,vercel,postman,vscode,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,postgres,prisma,git,github,docker,aws,vercel,postman,vscode&perline=11" />
 
 </div>
 
 ---
-
-
 
 # `🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞`
 
@@ -80,7 +78,6 @@
 ---
 
 <div align="center">
-
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%93%9A;Keep+Growing+%F0%9F%8C%B1" />
 
