@@ -72,13 +72,3 @@
 <img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%93%9A;Keep+Growing+%F0%9F%8C%B1" />
-
-<br/><br/>
-
-</div>
