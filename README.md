@@ -20,13 +20,7 @@
 
 ---
 
-# ` 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,postgres,prisma,git,github,docker,aws,vercel,postman,vscode&perline=11" />
-
-</div>
 
 ---
 
