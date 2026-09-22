@@ -56,10 +56,4 @@
 
 ---
 
-# `👀 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬`
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
-
-</div>
