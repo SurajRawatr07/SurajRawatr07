@@ -1,213 +1,221 @@
 
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:312e81,100:0891b2&height=220&section=header&text=Suraj%20Rawat&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Community%20Builder&descAlignY=58&descSize=17" width="100%" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Google+Student+Ambassador+2026+%F0%9F%92%99;Founder+of+Tech+Circle+%F0%9F%94%A5;Building+Products+That+Matter+%E2%9C%A8;Open+Source+%7C+MERN+%7C+AI" alt="Typing SVG" />
-</a>
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,40:312e81,100:0891b2&height=230&section=header&text=SURAJ%20RAWAT&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20COMMUNITY%20BUILDER&descSize=16&descAlignY=58" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/SurajRawatr07">
-<img src="https://komarev.com/ghpvc/?username=SurajRawatr07&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" />
-</a>
-<a href="https://github.com/SurajRawatr07?tab=followers">
-<img src="https://img.shields.io/github/followers/SurajRawatr07?label=FOLLOWERS&style=for-the-badge&color=6366f1" />
-</a>
-
-</div>
-
----
-
-<!-- ================= ABOUT ================= -->
-
-## 👨‍💻 About Me
-
-Hey! I'm **Suraj Rawat**, a BCA student and Full Stack Developer passionate about building scalable applications, exploring AI-powered technologies, and creating impactful developer communities.
-
-- 🎓 BCA Final Year Student at Graphic Era Hill University.
-- 💻 Focused on Full Stack Development (MERN Stack).
-- 💙 Google Student Ambassador 2026.
-- 🚀 Founder of **Tech Circle** – A student-led developer community.
-- 🏆 Participated in 9+ hackathons, including national-level events.
-- 🧠 Solved 400+ problems on LeetCode.
-- 🌱 Exploring Generative AI, LLMs and modern web technologies.
-- 🤝 Interested in Open Source, collaboration and building products.
-
-**My philosophy:** Learn continuously. Build consistently. Grow together.
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" />
-
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
-
-### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode" />
-
-</div>
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajRawatr07&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences+%F0%9F%9A%80;Google+Student+Ambassador+2026+%F0%9F%92%99;Founder+of+Tech+Circle+%F0%9F%94%A5;Full+Stack+Developer+%7C+Problem+Solver;Connect+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Grow" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SurajRawatr07&theme=tokyonight&hide_border=true" />
+<!-- ANIMATED CHARACTER -->
+<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/main/team7-dance.gif" width="250"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=tokyo-night&hide_border=true" width="100%" />
+<!-- DEVELOPER JOURNEY -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312e81&height=100&section=header&text=MY%20DEVELOPER%20JOURNEY&fontSize=25&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 </div>
 
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
+## ⚡ My Developer Identity
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 ProjectVerse
+### 👨‍💻 Who Am I?
 
-AI-powered smart education platform featuring project passports, verification workflows and mentor connections.
-
-**Tech:** React, AI, Full Stack
-
-<a href="https://project-verse-dun.vercel.app/">Live Demo</a> · <a href="https://github.com/SurajRawatr07">GitHub</a>
-
-</td>
-<td width="50%">
-
-### 🔹 Resume Craft
-
-An ATS-focused resume builder designed to help developers create professional resumes.
-
-**Tech:** React, TypeScript, Tailwind CSS
-
-<a href="https://resume-craft-07.vercel.app/">Live Demo</a> · <a href="https://github.com/SurajRawatr07/RESUME-BUILDER-WEBSITE">GitHub</a>
+- Full Stack Developer
+- BCA Student — GEHU Haldwani
+- Google Student Ambassador 2026
+- Founder of Tech Circle
+- Open Source Contributor
+- Hackathon Enthusiast
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 LinkPulse
+### 🎯 My Mission
 
-A URL shortener project focused on simplifying and managing links.
-
-**Tech:** Full Stack Web Development
-
-<a href="https://linkpulse2026.vercel.app/">Live Demo</a> · <a href="https://github.com/SurajRawatr07/LinkPulse">GitHub</a>
-
-</td>
-<td width="50%">
-
-### 🔹 LogSense
-
-A developer-focused project for log management and analysis.
-
-**Tech:** Web Development
-
-<a href="https://log-sense-nine.vercel.app/">Live Demo</a> · <a href="https://github.com/SurajRawatr07/LogSense-">GitHub</a>
+- Building real-world products
+- Exploring AI & LLM technologies
+- Solving DSA problems
+- Building developer communities
+- Learning and collaborating
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- ================= ACHIEVEMENTS ================= -->
-
-## 🏆 Achievements & Recognition
+<br/>
 
 <div align="center">
 
-| Achievement | Recognition |
-|:---|:---|
-| Google Student Ambassador | 2026 |
-| Founder | Tech Circle |
-| Hackathons | 9+ Participations |
-| LeetCode | 400+ Problems Solved |
-| LeetCode Rating | 1566 |
-| Community Building | 3000+ Students & Developers |
+## 🧩 TECH ARSENAL
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,git,github,docker,aws,vercel,firebase,vscode&perline=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🪪 DEVELOPER ID CARD
+
+<img src="https://github-readme-stats.vercel.app/api?username=SurajRawatr07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajRawatr07&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=SurajRawatr07&theme=tokyonight&hide_border=true" width="80%"/>
 
 </div>
 
 ---
 
-<!-- ================= COMMUNITY ================= -->
+## 🚀 S-RANK PROJECTS
 
-## 🌐 Building Tech Circle
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+</tr>
+
+<tr>
+<td><a href="https://project-verse-dun.vercel.app/"><b>ProjectVerse</b></a></td>
+<td>Smart education platform with project passports, verification and mentor workflows.</td>
+<td>React · AI · Web</td>
+</tr>
+
+<tr>
+<td><a href="https://resume-craft-07.vercel.app/"><b>Resume Craft</b></a></td>
+<td>ATS-focused resume builder with professional templates and PDF export.</td>
+<td>React · TypeScript</td>
+</tr>
+
+<tr>
+<td><a href="https://linkpulse2026.vercel.app/"><b>LinkPulse</b></a></td>
+<td>A modern URL shortening platform.</td>
+<td>Web Development</td>
+</tr>
+
+<tr>
+<td><a href="https://log-sense-nine.vercel.app/"><b>LogSense</b></a></td>
+<td>A developer-focused log management and analysis project.</td>
+<td>Web Development</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/SurajRawatr07/README-DESIGN-KIT"><b>README Design Kit</b></a></td>
+<td>A design resource for creating modern GitHub profile READMEs.</td>
+<td>Markdown · SVG</td>
+</tr>
+
+</table>
+
+<div align="center">
+
+<a href="https://github.com/SurajRawatr07?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-312e81?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENT UNLOCKED
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GOOGLE-Student%20Ambassador%202026-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FOUNDER-Tech%20Circle-6366f1?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/HACKATHONS-9%2B%20Participations-0891b2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LEETCODE-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LEETCODE%20RATING-1566-FFA116?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🌐 MY CONTRIBUTION VILLAGE
+
+<div align="center">
+
+*Every contribution is another step towards building something meaningful.*
+
+<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/main/rasengan-run.gif" width="130"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajRawatr07&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<br/>
+
+</div>
+
+---
+
+## 🔥 BUILDING TECH CIRCLE
 
 <div align="center">
 
 <a href="https://techcircle.vercel.app/">
-<img src="https://img.shields.io/badge/TECH%20CIRCLE-Visit%20Community-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/TECH%20CIRCLE-3000%2B%20COMMUNITY-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-### Connect • Learn • Build • Grow
+### CONNECT • LEARN • BUILD • GROW
 
-**A student-led technology community connecting 3000+ students and developers.**
+A student-led technology community connecting students and developers.
 
-<a href="https://www.linkedin.com/company/tech-circle-community/">LinkedIn</a> •
-<a href="https://www.instagram.com/tech_circleofficial/">Instagram</a> •
-<a href="https://techcircle.vercel.app/">Website</a>
+<a href="https://techcircle.vercel.app/">WEBSITE</a> •
+<a href="https://www.linkedin.com/company/tech-circle-community/">LINKEDIN</a> •
+<a href="https://www.instagram.com/tech_circleofficial/">INSTAGRAM</a>
 
 </div>
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
-## 🤝 Let's Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/suraj-rawat-30513b340/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+## 🤝 LET'S CONNECT
+
 <a href="https://github.com/SurajRawatr07">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/suraj-rawat-30513b340/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://leetcode.com/u/SurajRawat07/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 <a href="https://surajrawatportfoliowebsite.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-0891b2?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/PORTFOLIO-0891b2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-📧 **rawatsuraj80627@gmail.com**
+<a href="mailto:rawatsuraj80627@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### ⭐ Thanks for visiting my profile!
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:09090b&height=120&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/main/chibi-walk.gif" width="100"/>
+
+**Keep Building. Keep Learning. Keep Growing. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:101828&height=120&section=footer" width="100%"/>
 
 </div>
