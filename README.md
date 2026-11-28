@@ -3,7 +3,6 @@
 
 <img src="suraj.png" width="100%" alt="Suraj Rawat - Developer Banner"/>
 
-
 ## 🤝 LET'S CONNECT
 
 <a href="https://github.com/SurajRawatr07">
